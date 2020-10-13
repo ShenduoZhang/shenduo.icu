@@ -7,8 +7,9 @@ header:
 
       # @end locale config
     url: /about.html
-  - titles: CV
-    url: /CV.html
+  - titles: 
+      en      : &EN      CV
+    url: /cv.html
   - titles:
       # @start locale config
       en      : &EN       Homework
