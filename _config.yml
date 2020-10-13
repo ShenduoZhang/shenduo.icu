@@ -23,7 +23,7 @@ url     : # the base hostname & protocol for your site e.g. https://www.someone.
 baseurl : # does not include hostname
 title   : Shenduo's Homepage
 description: > # this means to ignore newlines until "Language & timezone"
-  Here is my personal academic homepage. I'm currently an undergraduate in Xi'an Jiaotong University. 
+  Here is my personal academic homepage. 
 
 
 ## => Language and Timezone
@@ -39,7 +39,7 @@ author:
   name      : Shenduo Zhang
   url       : martyrzsd.github.io
   avatar    : # path or url of avatar image (square)
-  bio       : I am interested in high-dimensional statistics, non-parametric statistics and machine learning.
+  bio       : I'm currently an undergraduate in Xi'an Jiaotong University. I am interested in high-dimensional statistics, non-parametric statistics and machine learning.
   email     : zhangshenduo@gmail.com
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
@@ -85,8 +85,8 @@ toc:
 ## => Markdown Enhancements
 ##############################
 ## Mathjax
-mathjax: # false (default), true
-mathjax_autoNumber: # false (default), true
+mathjax: true # false (default), true
+mathjax_autoNumber: true # false (default), true
 
 ## Mermaid
 mermaid: # false (default), true
