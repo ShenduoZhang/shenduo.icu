@@ -15,7 +15,7 @@ Some of the homework are written using LATEX, others in R markdown. All of the s
 
 ## Functional Analysis
 
-- First home work [First homework](martyrzsd.github.io/homework/2020/FA/1st_hw.pdf)
+- First home work [First homework](https://martyrzsd.github.io/homework/2020/FA/1st_hw.pdf)
 
 # 2020 Spring
 
