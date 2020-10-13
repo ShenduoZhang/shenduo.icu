@@ -5,6 +5,8 @@ titles:
   en      : &EN       Homework
   # @end locale config
 key: page-hw
+sidebar: 
+  nav: homework
 ---
 
 Here are some presentation of my homework done in different class. Those contents are ordered descending in time. I'm studying in China so you can expect many of the contents are in Chinese, particulaly group project. Only those done individually by myself are mostly in English. 

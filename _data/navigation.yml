@@ -22,3 +22,8 @@ header:
   - title:      GitHub
     url:        https://github.com/martyrzsd
       
+homework:
+  - title:      2020 FALL
+    children:
+      - title:  Functional analysis
+        url:    /hw/en/2020_FALL
