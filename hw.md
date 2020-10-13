@@ -23,9 +23,9 @@ Lecturer: Jiaqing Yang
 
 Institute: Xi'an Jiaotong University
 
-- First homework [pdf](https://martyrzsd.github.io/homework/2020/FA/1st_hw.pdf)
-- Second homework [pdf](https://martyrzsd.github.io/homework/2020/FA/2nd_hw.pdf)
-- Third homework [pdf](https://martyrzsd.github.io/homework/2020/FA/3th_hw.pdf)
+- `Metric space` and `convergence`. [pdf](https://martyrzsd.github.io/homework/2020/FA/1st_hw.pdf)
+- `Completeness`, `compactness`.  [pdf](https://martyrzsd.github.io/homework/2020/FA/2nd_hw.pdf)
+- `Banach's theorem` [pdf](https://martyrzsd.github.io/homework/2020/FA/3rd_hw.pdf)
 - Fourth homework [pdf](https://martyrzsd.github.io/homework/2020/FA/4th_hw.pdf)
 
 ## Statistical consultary 
@@ -38,7 +38,7 @@ Collaborator: Shaokang Zu
 
 The reports are all in Chinese and the code writen are basically without much comments. But by running the code, you do reproduce what we did. Due to the fact that the class is still in progress, the repository is kept private for now.
 
-- First homework
+- Homework on `generalized linera model` and `asymptotic normality for parameter estimation in parameterized non-linear model`.
   - Report [pdf](https://martyrzsd.github.io/homework/2020/statisticalconsultary/1.pdf)
   - R code, R studio project and RMD notebook [code](https://github.com/martyrzsd/Statistical_Consultary)
 
@@ -52,17 +52,18 @@ Institute: Xi'an Jiaotong University
 
 ## Machine learning
 
-Lecturer: Xuehu Zhu
+Lecturer: Deyu Meng
 
 Institute: Xi'an Jiaotong University
 
+Those works are jointly done in a group of three with Zehao Wang and Chenghang Wang. We had a good time together and personally I appreciated this pleasant collaboration experience.
 
-
-## Elements of financial statistics
-
-Lecturer: Yongchang Hui
-
-Institute: Xi'an Jiaotong University
+- `Overview of ML` and `different approach comparing to statistics` [pdf](https://martyrzsd.github.io/homework/2019/machinelearning/1.pdf)
+- `SEIR` model on pandemic modelling [pdf](https://martyrzsd.github.io/homework/2019/machinelearning/2.pdf)
+- `CNN`, `transfer learning` and `visualization for training of convolution layers and extracted features` [pdf](https://martyrzsd.github.io/homework/2019/machinelearning/3.pdf)
+- `Boosting` and `SVM` [pdf](https://martyrzsd.github.io/homework/2019/machinelearning/4.pdf)
+- `Unsupervised learning`, `k-means`, `fuzzy c-means` and `kernel fuzzy c-means` and [pdf](https://martyrzsd.github.io/homework/2019/machinelearning/5.pdf)
+- `Visualization of GAN training` [pdf](https://martyrzsd.github.io/homework/2019/machinelearning/6.pdf)
 
 ## Data analysis and R
 
@@ -70,11 +71,24 @@ Lecturer: Chunxia Zhang
 
 Institute: Xi'an Jiaotong University
 
+- `basic sample statistics` [pdf](https://martyrzsd.github.io/homework/2019/dataanalysis/1.pdf)
+- `linear regression` [pdf](https://martyrzsd.github.io/homework/2019/dataanalysis/2.pdf)
+- `ANOVA` and `statistical inference` [pdf](https://martyrzsd.github.io/homework/2019/dataanalysis/3.pdf)
+- `PCA` and `Canonical analysis` [pdf](https://martyrzsd.github.io/homework/2019/dataanalysis/4.pdf)
+- `Classification analysis`, including `LDA`[pdf](https://martyrzsd.github.io/homework/2019/dataanalysis/5.pdf)
+
+
 ## Elements of biological statistics
 
 Lecturer: Hongying Zhang
 
 Institute: Xi'an Jiaotong University
+
+- Baisc `visualization`[pdf](https://martyrzsd.github.io/homework/2019/biostat/1.pdf)
+- `EM algorithm`[pdf](https://martyrzsd.github.io/homework/2019/biostat/1.pdf)
+- `Chi-sqaure independence test`, `McNemar test (exact and normal)` and `Fisher exact test` with biological data.[pdf](https://martyrzsd.github.io/homework/2019/biostat/1.pdf)
+- `Wilcoxon signed rank test (normal and exact)` and `Wilcoxon rank-sum test (normal and exact)` with biological data[pdf](https://martyrzsd.github.io/homework/2019/biostat/1.pdf)
+- `Ramdom and fixed effect ANOVA` with biological data[pdf](https://martyrzsd.github.io/homework/2019/biostat/1.pdf)
 
 ## Optimization
 
