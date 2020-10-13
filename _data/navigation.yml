@@ -8,6 +8,10 @@ header:
       # @end locale config
     url: /about.html
   - titles: CV
+    url: /CV.html
   - titles: Homework presentation
-  - titles: Notes
+  - titles: Notes on classes
+  - titles: Notes on readings
+  - title:      GitHub
+    url:        https://github.com/martyrzsd
       
