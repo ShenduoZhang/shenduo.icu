@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Homework 
+title: Homework
 mathjax: true
 ---
 
