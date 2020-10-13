@@ -9,7 +9,12 @@ header:
     url: /about.html
   - titles: CV
     url: /CV.html
-  - titles: Homework
+    - titles:
+      # @start locale config
+      en      : &EN       Homework
+      #zh-Hans : &ZH_HANS  关于
+
+      # @end locale config
     url: /hw.html
   - titles: Notes on classes
   - titles: Notes on readings
