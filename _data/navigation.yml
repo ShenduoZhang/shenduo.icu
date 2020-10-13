@@ -9,7 +9,7 @@ header:
     url: /about.html
   - titles: CV
     url: /CV.html
-    - titles:
+  - titles:
       # @start locale config
       en      : &EN       Homework
       #zh-Hans : &ZH_HANS  关于
