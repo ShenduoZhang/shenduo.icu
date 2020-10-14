@@ -25,7 +25,7 @@ Institute: Xi'an Jiaotong University
 
 - `Metric space` and `convergence`. [pdf](https://martyrzsd.github.io/homework/2020/FA/1st_hw.pdf)
 - `Completeness`, `compactness`.  [pdf](https://martyrzsd.github.io/homework/2020/FA/2nd_hw.pdf)
-- `Banach's theorem` [pdf](https://martyrzsd.github.io/homework/2020/FA/3rd_hw.pdf)
+- `Banach's theorem`. [pdf](https://martyrzsd.github.io/homework/2020/FA/3rd_hw.pdf)
 - Fourth homework [pdf](https://martyrzsd.github.io/homework/2020/FA/4th_hw.pdf)
 
 ## Statistical consultary 
@@ -56,14 +56,16 @@ Lecturer: Deyu Meng
 
 Institute: Xi'an Jiaotong University
 
-Those works are jointly done in a group of three with Zehao Wang and Chenghang Wang. We had a good time together and personally I appreciated this pleasant collaboration experience.
+Grade: 93/4/A
 
-- `Overview of ML` and `different approach comparing to statistics` [pdf](https://martyrzsd.github.io/homework/2019/machinelearning/1.pdf)
-- `SEIR` model on pandemic modelling [pdf](https://martyrzsd.github.io/homework/2019/machinelearning/2.pdf)
-- `CNN`, `transfer learning` and `visualization for training of convolution layers and extracted features` [pdf](https://martyrzsd.github.io/homework/2019/machinelearning/3.pdf)
-- `Boosting` and `SVM` [pdf](https://martyrzsd.github.io/homework/2019/machinelearning/4.pdf)
-- `Unsupervised learning`, `k-means`, `fuzzy c-means` and `kernel fuzzy c-means` and [pdf](https://martyrzsd.github.io/homework/2019/machinelearning/5.pdf)
-- `Visualization of GAN training` [pdf](https://martyrzsd.github.io/homework/2019/machinelearning/6.pdf)
+These works were jointly done in a group of three with Zehao Wang and Chenghang Wang. We had a good time together and personally I appreciate this pleasant collaboration experience.
+
+- `Overview of ML` and `different approach comparing to statistics`. [pdf](https://martyrzsd.github.io/homework/2019/machinelearning/1.pdf)
+- `SEIR` model on pandemic modelling. [pdf](https://martyrzsd.github.io/homework/2019/machinelearning/2.pdf)
+- `CNN`, `transfer learning` and `visualization for training of convolution layers and extracted features`. [pdf](https://martyrzsd.github.io/homework/2019/machinelearning/3.pdf)
+- `Boosting` and `SVM`. [pdf](https://martyrzsd.github.io/homework/2019/machinelearning/4.pdf)
+- `Unsupervised learning`, `k-means`, `fuzzy c-means` and `kernel fuzzy c-means`. [pdf](https://martyrzsd.github.io/homework/2019/machinelearning/5.pdf)
+- `Visualization of GAN training`. [pdf](https://martyrzsd.github.io/homework/2019/machinelearning/6.pdf)
 
 ## Data analysis and R
 
@@ -71,11 +73,13 @@ Lecturer: Chunxia Zhang
 
 Institute: Xi'an Jiaotong University
 
-- `basic sample statistics` [pdf](https://martyrzsd.github.io/homework/2019/dataanalysis/1.pdf)
-- `linear regression` [pdf](https://martyrzsd.github.io/homework/2019/dataanalysis/2.pdf)
-- `ANOVA` and `statistical inference` [pdf](https://martyrzsd.github.io/homework/2019/dataanalysis/3.pdf)
-- `PCA` and `Canonical analysis` [pdf](https://martyrzsd.github.io/homework/2019/dataanalysis/4.pdf)
-- `Classification analysis`, including `LDA`[pdf](https://martyrzsd.github.io/homework/2019/dataanalysis/5.pdf)
+Grade: 97/4.3/A+
+
+- `basic sample statistics`. [pdf](https://martyrzsd.github.io/homework/2019/dataanalysis/1.pdf)
+- `linear regression`. [pdf](https://martyrzsd.github.io/homework/2019/dataanalysis/2.pdf)
+- `ANOVA` and `statistical inference`. [pdf](https://martyrzsd.github.io/homework/2019/dataanalysis/3.pdf)
+- `PCA` and `Canonical analysis`. [pdf](https://martyrzsd.github.io/homework/2019/dataanalysis/4.pdf)
+- `Classification analysis`, including `LDA`. [pdf](https://martyrzsd.github.io/homework/2019/dataanalysis/5.pdf)
 
 
 ## Elements of biological statistics
@@ -84,14 +88,57 @@ Lecturer: Hongying Zhang
 
 Institute: Xi'an Jiaotong University
 
-- Baisc `visualization`[pdf](https://martyrzsd.github.io/homework/2019/biostat/1.pdf)
-- `EM algorithm`[pdf](https://martyrzsd.github.io/homework/2019/biostat/1.pdf)
-- `Chi-sqaure independence test`, `McNemar test (exact and normal)` and `Fisher exact test` with biological data.[pdf](https://martyrzsd.github.io/homework/2019/biostat/1.pdf)
-- `Wilcoxon signed rank test (normal and exact)` and `Wilcoxon rank-sum test (normal and exact)` with biological data[pdf](https://martyrzsd.github.io/homework/2019/biostat/1.pdf)
-- `Ramdom and fixed effect ANOVA` with biological data[pdf](https://martyrzsd.github.io/homework/2019/biostat/1.pdf)
+Grade: 92/4/A
+
+- Basic `visualization`. [pdf](https://martyrzsd.github.io/homework/2019/biostat/1.pdf)
+- `EM algorithm`. [pdf](https://martyrzsd.github.io/homework/2019/biostat/1.pdf)
+- `Chi-sqaure independence test`, `McNemar test (exact and normal)` and `Fisher exact test` with biological data. [pdf](https://martyrzsd.github.io/homework/2019/biostat/1.pdf)
+- `Wilcoxon signed rank test (normal and exact)` and `Wilcoxon rank-sum test (normal and exact)` with biological data. [pdf](https://martyrzsd.github.io/homework/2019/biostat/1.pdf)
+- `Ramdom and fixed effect ANOVA` with biological data. [pdf](https://martyrzsd.github.io/homework/2019/biostat/1.pdf)
 
 ## Optimization
 
 Lecturer: Hui Li
 
 Institute: Xi'an Jiaotong University
+
+Grade: 89/3.7/A-
+
+This homework set contains many handwritten ones. I do not enjoy any reputation of good calligraphy, so be prepared and not drinking or eating while you read them, otherwise you may vomit on your device.
+
+- `convexity`, `descend direction` and `optimality`. [pdf](homework/2020/opt/1.pdf)
+- `Linear programming` and `simplex`. [pdf](homework/2020/opt/2.pdf)
+- `Linear search`, `Goldstein and Wolfe principle` and `speedy descend`. [pdf](homework/2020/opt/3.pdf)
+- `Non-restricted optimization`. [pdf](homework/2020/opt/4.pdf)
+- `Quadratic programming`. [pdf](homework/2020/opt/5.pdf)
+- `Linear search`. 
+  - [pdf](homework/2020/opt/6.pdf)
+  - [code](homework/2020/opt/6.py)
+
+
+# 2019 Fall
+
+## Mathematical statistics
+
+Lecturer: Mayya Zhilova
+
+Insititute: Georgia Institute of Technology
+
+Somehow there were only one homework for this class.
+
+- [pdf](homework/2019/mathstat/1/pdf)
+
+## Stochastic processes
+
+Lecturer: Lutz Warnke
+
+Insititute: Georgia Institute of Technology
+
+# 2018 Fall
+
+## Mathematical analysis
+
+# 2018 Spring
+
+## Advanced algebra
+
