@@ -50,7 +50,7 @@ Institute: Xi'an Jiaotong University
 
 # 2020 Spring
 
-## Machine learning
+## Machine learning(Chinese)
 
 Lecturer: Deyu Meng
 
@@ -60,14 +60,14 @@ Grade: 93/4/A
 
 These works were jointly done in a group of three with Zehao Wang and Chenghang Wang. We had a good time together and personally I appreciate this pleasant collaboration experience.
 
-- `Overview of ML` and `different approach comparing to statistics`. [pdf](https://martyrzsd.github.io/homework/2019/machinelearning/1.pdf)
-- `SEIR` model on pandemic modelling. [pdf](https://martyrzsd.github.io/homework/2019/machinelearning/2.pdf)
-- `CNN`, `transfer learning` and `visualization for training of convolution layers and extracted features`. [pdf](https://martyrzsd.github.io/homework/2019/machinelearning/3.pdf)
-- `Boosting` and `SVM`. [pdf](https://martyrzsd.github.io/homework/2019/machinelearning/4.pdf)
-- `Unsupervised learning`, `k-means`, `fuzzy c-means` and `kernel fuzzy c-means`. [pdf](https://martyrzsd.github.io/homework/2019/machinelearning/5.pdf)
-- `Visualization of GAN training`. [pdf](https://martyrzsd.github.io/homework/2019/machinelearning/6.pdf)
+- `Overview of ML` and `different approach comparing to statistics`. [pdf](https://martyrzsd.github.io/homework/2020/machinelearning/1.pdf)
+- `SEIR` model on pandemic modelling. [pdf](https://martyrzsd.github.io/homework/2020/machinelearning/2.pdf)
+- `CNN`, `transfer learning` and `visualization for training of convolution layers and extracted features`. [pdf](https://martyrzsd.github.io/homework/2020/machinelearning/3.pdf)
+- `Boosting` and `SVM`. [pdf](https://martyrzsd.github.io/homework/2020/machinelearning/4.pdf)
+- `Unsupervised learning`, `k-means`, `fuzzy c-means` and `kernel fuzzy c-means`. [pdf](https://martyrzsd.github.io/homework/2020/machinelearning/5.pdf)
+- `Visualization of GAN training`. [pdf](https://martyrzsd.github.io/homework/2020/machinelearning/6.pdf)
 
-## Data analysis and R
+## Data analysis and R(Chinese)
 
 Lecturer: Chunxia Zhang
 
@@ -75,11 +75,11 @@ Institute: Xi'an Jiaotong University
 
 Grade: 97/4.3/A+
 
-- `basic sample statistics`. [pdf](https://martyrzsd.github.io/homework/2019/dataanalysis/1.pdf)
-- `linear regression`. [pdf](https://martyrzsd.github.io/homework/2019/dataanalysis/2.pdf)
-- `ANOVA` and `statistical inference`. [pdf](https://martyrzsd.github.io/homework/2019/dataanalysis/3.pdf)
-- `PCA` and `Canonical analysis`. [pdf](https://martyrzsd.github.io/homework/2019/dataanalysis/4.pdf)
-- `Classification analysis`, including `LDA`. [pdf](https://martyrzsd.github.io/homework/2019/dataanalysis/5.pdf)
+- `basic sample statistics`. [pdf](https://martyrzsd.github.io/homework/2020/dataanalysis/1.pdf)
+- `linear regression`. [pdf](https://martyrzsd.github.io/homework/2020/dataanalysis/2.pdf)
+- `ANOVA` and `statistical inference`. [pdf](https://martyrzsd.github.io/homework/2020/dataanalysis/3.pdf)
+- `PCA` and `Canonical analysis`. [pdf](https://martyrzsd.github.io/homework/2020/dataanalysis/4.pdf)
+- `Classification analysis`, including `LDA`. [pdf](https://martyrzsd.github.io/homework/2020/dataanalysis/5.pdf)
 
 
 ## Elements of biological statistics
@@ -90,13 +90,13 @@ Institute: Xi'an Jiaotong University
 
 Grade: 92/4/A
 
-- Basic `visualization`. [pdf](https://martyrzsd.github.io/homework/2019/biostat/1.pdf)
-- `EM algorithm`. [pdf](https://martyrzsd.github.io/homework/2019/biostat/1.pdf)
-- `Chi-sqaure independence test`, `McNemar test (exact and normal)` and `Fisher exact test` with biological data. [pdf](https://martyrzsd.github.io/homework/2019/biostat/1.pdf)
-- `Wilcoxon signed rank test (normal and exact)` and `Wilcoxon rank-sum test (normal and exact)` with biological data. [pdf](https://martyrzsd.github.io/homework/2019/biostat/1.pdf)
-- `Ramdom and fixed effect ANOVA` with biological data. [pdf](https://martyrzsd.github.io/homework/2019/biostat/1.pdf)
+- Basic `visualization`. [pdf](https://martyrzsd.github.io/homework/2020/biostat/1.pdf)
+- `EM algorithm`. [pdf](https://martyrzsd.github.io/homework/2020/biostat/1.pdf)
+- `Chi-sqaure independence test`, `McNemar test (exact and normal)` and `Fisher exact test` with biological data. [pdf](https://martyrzsd.github.io/homework/2020/biostat/1.pdf)
+- `Wilcoxon signed rank test (normal and exact)` and `Wilcoxon rank-sum test (normal and exact)` with biological data. [pdf](https://martyrzsd.github.io/homework/2020/biostat/1.pdf)
+- `Ramdom and fixed effect ANOVA` with biological data. [pdf](https://martyrzsd.github.io/homework/2020/biostat/1.pdf)
 
-## Optimization
+## Optimization(Chinese)
 
 Lecturer: Hui Li
 
@@ -134,11 +134,10 @@ Lecturer: Lutz Warnke
 
 Insititute: Georgia Institute of Technology
 
-# 2018 Fall
-
-## Mathematical analysis
-
 # 2018 Spring
 
-## Advanced algebra
+## Advanced algebra(Chinese)
 
+# 2017 Fall 
+
+## Mathematical analysis(Chinese)
