@@ -5,6 +5,8 @@ titles:
   en      : &EN       Homework
   # @end locale config
 key: page-hw
+aside:
+  toc: true
 # sidebar: 
 #  nav: homework
 ---

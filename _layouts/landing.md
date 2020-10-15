@@ -1,11 +1,12 @@
+
 ---
-layout: home
-titles:
-  # @start locale config
-  en      : &EN       Homepage
-  # @end locale config
-key: page-home
-toc: true
+layout: page
+header: false
+full_width: true
+article_header:
+  type: overlay
+  align: center
+  height: 80vh
 ---
 
 # Shenduo Zhang
