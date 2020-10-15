@@ -17,8 +17,8 @@ header:
 
       # @end locale config
     url: /hw.html
-  - titles: Notes on classes
-      en      : &EN     Courses
+  - titles: 
+      en      : &EN       Courses
     url:  /courses.html
 
   - title:      GitHub
