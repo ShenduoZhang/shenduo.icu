@@ -5,6 +5,8 @@ titles:
   en      : &EN       Courses
   # @end locale config
 key: page-courses
+toc:
+  nav: true
 ---
 
 This page contains parts of my notes in my study. Basically all of them are hand-writen digital notes. I tried and found it hard to keep my brain working while taking tex notes. I never enjoyed any reputation of good caligraphy. Be prepared when you read it. 
@@ -31,6 +33,7 @@ And there are also some cheatsheets I made for reviewing, which will be helpful 
 - Institute: Georgia Institute of Technology
 - Reference book: Coordinate-free Approach to Linear Models *M. Wichura*
 - Grade: Audit, not available
+- Language: English
 
 This was indeed a really good class, which basically set and firmed my interest in statistics. [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwgogKpsqlxwGQtEz7hg)
 
@@ -40,6 +43,7 @@ This was indeed a really good class, which basically set and firmed my interest 
 - Institute: Georgia Institute of Technology
 - Reference book: GTM274, Brownian motion, Martingale and Stochastic Calculus, *Le Gall*
 - Grade: Audit, won't be available
+- Language: English
 
 Check out Michael's website for his great notes! [Math 7244](http://people.math.gatech.edu/~mdamron6/teaching/Fall_2019/Math_7244/index.html)
 
@@ -49,6 +53,7 @@ Check out Michael's website for his great notes! [Math 7244](http://people.math.
 - Institute: Xi'an Jiaotong University
 - Reference book: Lectured with His slides, but I learned this class by reading *Machine Learning, ZH Zhou*
 - Grade: 93/A/4.0
+- Language: Chinese
 
 I wasn't taking any notes since he used slides. The review contents and summary(he covered way more contents than what's in herr) are here,
 - Summary [pdf](/CS/MachineLearning/content.pdf)[concepts](/CS/MachineLearning/content.concept)
@@ -62,6 +67,7 @@ I wasn't taking any notes since he used slides. The review contents and summary(
 - Institute: Xi'an Jiaotong University
 - Reference book: 概率论, *苏淳*/Probability theorem, *Chun Su*
 - Grade: 96/A+/4.3
+- Language: Chinese
 
 Solid probability class! [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwgatRW3r9LQ1shEr6_Q)
 
@@ -83,12 +89,13 @@ Although the class has a reference book, the lecture notes are carefully organiz
 
 This class is too elementary since it wasn't measure theory based. However, it was a great class with a ton of examples. I am taking another class on continuous time random processes. [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwgfdJwCJ3FxPtSRvTfQ)
 
-## Data analysis
+## Data analysis and R
 
 - Lecturer: Chunxia Zhang, Hongying Zhang
 - Institute: Xi'an Jiaotong University
 - Reference book: A very aged and outdated one, I learned this class by her slides and google.
 - Grade: 97/A+/4.3
+- Language: Chinese
 
 Review contents and summary are here [pdf](/CS/DataAna/1.pdf)[concepts](CS/DataAna/1.concepts). The concepts version contains different layer which can be used as a self-test.
 
@@ -98,6 +105,7 @@ Review contents and summary are here [pdf](/CS/DataAna/1.pdf)[concepts](CS/DataA
 - Institute: Xi'an Jiaotong University
 - Reference book:
 - Grade:
+- Language: Chinese
 
 
 ## Elements of biostatistics
@@ -106,6 +114,7 @@ Review contents and summary are here [pdf](/CS/DataAna/1.pdf)[concepts](CS/DataA
 - Institute: Xi'an Jiaotong University
 - Reference book:
 - Grade:
+- Language: Chinese
 
 
 # Elementary classes in mathematics
@@ -119,6 +128,7 @@ Review contents and summary are here [pdf](/CS/DataAna/1.pdf)[concepts](CS/DataA
   1. 90/A
   2. 90/A
   3. 95/A+
+- Language: Chinese
 
 Simply the best class I've ever taken in Xi'an Jiaotong University! My poor hand writing does not match up with the contents. [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwggSzfd1T_40d_XAy?e=vFwVNC)
 
@@ -130,7 +140,7 @@ Simply the best class I've ever taken in Xi'an Jiaotong University! My poor hand
 - Grade:
   1. 80/B/3.0
   2. 79/B/3.0
-
+- Language: Chinese
 This class was notorious for its hard exams among class of 2021. But professor Wang did put a lot of efforts into it. I definitely could have done better. I would consider my linear algebra as solid, since I've been working with it for quite a long time and taking several course like matrix analysis as supplementary. [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwigb__Toq9opu9Pza)
 
 ## Complex analysis
@@ -139,6 +149,7 @@ This class was notorious for its hard exams among class of 2021. But professor W
 - Institute: Xi'an Jiaotong University
 - Reference book: Complex Analysis *E. Stein*
 - Grade: 91/A/4.0
+- Language: Chinese
 
 The note is missing many important parts because I bought the book and switched to taking notes on the book for some while.[OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwgah8y9gs0tZ3B-dsUw)
 
@@ -148,6 +159,7 @@ The note is missing many important parts because I bought the book and switched 
 - Institute: Xi'an Jiaotong University
 - Reference book: Lecture notes
 - Grade: 96/A+/4.3
+- Language: Chinese
 
 This real analysis class is too elementary since it didn't cover $L^p$ space and many other important topics.[OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwgah6w5kr7aP7h9JB0Q)
 
@@ -157,6 +169,7 @@ This real analysis class is too elementary since it didn't cover $L^p$ space and
 - Institute: Xi'an Jiaotong University
 - Reference book: Lecture notes
 - Grade: not availabel yet
+- Language: Chinese
 
 [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwgolW_ObBhQy1HcnDjg)
 
