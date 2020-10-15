@@ -5,8 +5,8 @@ titles:
   en      : &EN       Courses
   # @end locale config
 key: page-courses
-toc:
-  nav: true
+aside:
+  toc: true
 ---
 
 This page contains parts of my notes in my study. Basically all of them are hand-writen digital notes. I tried and found it hard to keep my brain working while taking tex notes. I never enjoyed any reputation of good caligraphy. Be prepared when you read it. 

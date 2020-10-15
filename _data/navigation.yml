@@ -9,7 +9,7 @@ header:
   #   url: /home.html
   - titles: 
       en      : &EN      CV
-    url: /cv.html
+    url: /CV.html
   - titles:
       # @start locale config
       en      : &EN       Homework
@@ -20,6 +20,9 @@ header:
   - titles: 
       en      : &EN       Courses
     url:  /courses.html
+  - titles: 
+      en      : &EN       Reseach notes
+    url:  /research.html
 
   - title:      GitHub
     url:        https://github.com/martyrzsd

@@ -11,13 +11,17 @@ toc: true
 # Shenduo Zhang
 
 He's an undergraduate at Xi'an Jiaotong University majoring statistics. 
-<div  align="right">    
-  <img class="image image--lg" src="/me.jpeg"/>
-</div>
+   
+<img class="image image--lg" src="/me.jpeg"/>
 
 # Contact
 
 Email: zhangshenduo@gmail.com
+
+# For students
+
+- [My notes](/courses.md)
+- [My homework](/hw.md)
 
 # Education
 
