@@ -14,9 +14,11 @@ He's an undergraduate at Xi'an Jiaotong University majoring statistics.
 
 <figure>
   <img class="image image--lg" src="/me.jpeg"/>
-  <figcaption>Baby</figcaption>
+  <figcaption>A baby</figcaption>
   <img class="image image--lg" src="/me1.jpeg"/>
+  <figcaption>An semibaby</figcaption>
   <img class="image image--lg" src="/me2.jpeg"/>
+  <figcaption>An localsemibaby</figcaption>
 </figure>
 
 # Contact
