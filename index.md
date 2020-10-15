@@ -11,9 +11,8 @@ toc: true
 # Shenduo Zhang
 
 He's an undergraduate at Xi'an Jiaotong University majoring statistics. 
-<div style="width:30%; margin:0 auto;" align="right" markdown="1">
-    ![image](/me.jpeg){:.circle.shadow}
-</div>
+
+<img class="image image--lg" src="/me.jpeg"/>
 
 # Contact
 
