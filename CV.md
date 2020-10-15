@@ -7,4 +7,4 @@ titles:
 key: page-cv
 ---
 
-# Not complete yet
+# Not available yet
