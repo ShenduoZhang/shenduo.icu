@@ -20,7 +20,7 @@ theme: jekyll-text-theme # Gem-based Jekyll Themes
 text_skin: orange # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
-baseurl : /home.html # does not include hostname
+baseurl : # does not include hostname
 title   : Shenduo's Homepage
 description: > # this means to ignore newlines until "Language & timezone"
   Here is my personal academic homepage. 
@@ -50,7 +50,7 @@ author:
   zhihu     : # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
   douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
   linkedin  : https://www.linkedin.com/in/shenduo-zhang-383756191/ # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
-  github    : # "user_name" the last part of your profile url, e.g. https://github.com/user_name
+  github    : https://github.com/martyrzsd # "user_name" the last part of your profile url, e.g. https://github.com/user_name
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
 
 
