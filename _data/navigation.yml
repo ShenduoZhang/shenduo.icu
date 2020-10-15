@@ -2,11 +2,11 @@ header:
 
   - titles:
       # @start locale config
-      en      : &EN       About
+      en      : &EN       Home
       #zh-Hans : &ZH_HANS  关于
 
       # @end locale config
-    url: /about.html
+    url: /home.html
   - titles: 
       en      : &EN      CV
     url: /cv.html
@@ -18,7 +18,9 @@ header:
       # @end locale config
     url: /hw.html
   - titles: Notes on classes
-  - titles: Notes on readings
+      en      : &EN     Courses
+    url:  /courses.html
+
   - title:      GitHub
     url:        https://github.com/martyrzsd
       

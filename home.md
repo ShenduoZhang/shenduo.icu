@@ -4,7 +4,7 @@ titles:
   # @start locale config
   en      : &EN       Homepage
   # @end locale config
-key: page-about
+key: page-home
 ---
 
 # Shenduo Zhang
