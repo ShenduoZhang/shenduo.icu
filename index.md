@@ -19,9 +19,10 @@ He's an undergraduate at Xi'an Jiaotong University majoring statistics.
 
 # Contact
 
-Email: zhangshenduo@gmail.com
+Email: zhangshenduo at gmail dot com
+Academic: martyrzsd@stu.xjtu.edu.cn
 
-# For students
+# Public resources
 
 - [My notes](/courses.md)
 - [My homework](/hw.md)

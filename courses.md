@@ -37,7 +37,7 @@ This page contains the math class I've taken and my notes as well as cheatsheets
 - Grade: Audit, not available
 - Note Language: English
 
-This was indeed a really good class, which basically set and firmed my interest in statistics. [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwgogKpsqlxwGQtEz7hg)
+This was indeed a really good class, which set and firmed my current interest in statistics. I was lucky to have this class as my first class in statistics. [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwgogKpsqlxwGQtEz7hg)
 
 ## Stochastic calculus and brownian motion*
 
@@ -57,7 +57,7 @@ Check out Michael's website for his great notes! [Math 7244](http://people.math.
 - Grade: 93/A/4.0
 - Cheatsheet Language: Chinese
 
-I wasn't taking any notes since he used slides. The review contents and summary(he covered way more contents than what's in herr) are here,
+I wasn't taking any notes since he was using slides. The cheatsheets and summary(he covered way more contents than what's in herr) are here,
 - Summary [pdf](/CS/MachineLearning/content.pdf) [concepts](/CS/MachineLearning/content.concept)
 - Review [concepts](/CS/MachineLearning/review.concept)
 
@@ -102,7 +102,7 @@ Solid probability class! [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwgatRW3r9LQ1sh
 - Grade: A/4.0
 - Note Language: English
 
-Although the class has a reference book, the lecture notes are carefully organized and designed by Mayya! [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwgfc3Ni8W4Vc9X9Q4Uw)
+Although the class had a reference book, the lecture notes were carefully organized and designed by Mayya! [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwgfc3Ni8W4Vc9X9Q4Uw)
 
 ## Stochastic process
 
@@ -112,7 +112,7 @@ Although the class has a reference book, the lecture notes are carefully organiz
 - Grade: A/4.0
 - Note Language: English
 
-This class is too elementary since it wasn't measure theory based. However, it was a great class with a ton of examples. I am taking another class on continuous time random processes. [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwgfdJwCJ3FxPtSRvTfQ)
+This class was too elementary since it wasn't measure theory based. However, it was a great class with a ton of examples. I am taking another class on continuous time random processes. [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwgfdJwCJ3FxPtSRvTfQ)
 
 ## Data analysis and R
 
@@ -167,7 +167,8 @@ Simply the best class I've ever taken in Xi'an Jiaotong University! My poor hand
   1. 80/B/3.0
   2. 79/B/3.0
 - Note Language: Chinese
-This class was notorious for its hard exams among class of 2021. But professor Wang did put a lot of efforts into it. I definitely could have done better. [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwigb__Toq9opu9Pza)
+
+This class was notorious for its hard exams among the class of 2021. But professor Wang did put a lot of efforts into it. I definitely could have done better. [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwigb__Toq9opu9Pza)
 
 ## Complex analysis
 
@@ -187,7 +188,7 @@ The note is missing many important parts because I bought the book and switched 
 - Grade: 96/A/4.0
 - Note Language: Chinese
 
-This real analysis class is too elementary since it didn't cover $L^p$ space and many other important topics.[OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwgah6w5kr7aP7h9JB0Q)
+This real analysis class was too elementary since it didn't cover $L^p$ space and many other important topics.[OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwgah6w5kr7aP7h9JB0Q)
 
 ## Functional analysis
 
