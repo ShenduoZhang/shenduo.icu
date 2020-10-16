@@ -9,21 +9,23 @@ aside:
   toc: true
 ---
 
-This page contains parts of my notes in my study. Basically all of them are hand-writen digital notes. I tried and found it hard to keep my brain working while taking tex notes. I never enjoyed any reputation of good caligraphy. Be prepared when you read it. 
+This page contains the math class I've taken and my notes as well as cheatsheets I made for review. Although all of the classes' exams are closed book in my school, I found it helpful to do a summary review and make a cheatsheet. Basically all of them are hand-writen digital notes. I tried and found it hard to keep my brain working while taking tex notes. I never enjoyed any reputation of good caligraphy. Be prepared when you read it. 
 
-Majority of the notes are taken using *OneNote*, which is a free cross-platform(`Windows`, `macOS`, `iOS`, `Andriod`, `web`) note taking software developed by Microsoft. 
+- FOR NOTES
 
-- If you are outside China, you can access my notes by clicking the link [OneDrive] in each post.
+  Majority of the notes are taken using *OneNote*, which is a free cross-platform(`Windows`, `macOS`, `iOS`, `Andriod`, `web`) note taking software developed by `Microsoft`. 
 
-- If you are inside China, you can not access my notes by the link due to the internet restriction the government imposed on OneDrive. You can try following things,
-  1. **(RECOMMENDED)** Find yourself a way to get over the restriction.
-  2. Email me for the notes you are interested. Please specify who you are, what you are interested and your microsoft account in your email. I can give you access via email links. If I'm not replying, please email again. 
-  3. **(NOT RECOMMENDED)** Find me in person.
+  - If you are outside China, you can access my notes by clicking the link [OneDrive] in each post.
+  - If you are inside China, you can not access my notes by the link due to the internet restriction the government imposed on OneDrive. You can try following things,
+    1. **(RECOMMENDED)** Find yourself a way to get over the restriction.
+    2. Email me for the notes you are interested. Please specify who you are, what you are interested and your microsoft account in your email. I can give you access via email links. If I'm not replying, please email again. 
+    3. **(NOT RECOMMENDED)** Find me in person.
 
-Those notes are accessible anytime anywhere on any devices, which means it can serve as a handbook for your study. I did find myself forgetting things I've learned quite often, but I never found Microsoft did.
+  Those notes are accessible anytime anywhere on any devices, which means it can serve as a handbook for your study. I did find myself forgetting things I've learned quite often, but I never found Microsoft did.
 
-
-And there are also some cheatsheets I made for reviewing, which will be helpful if you are going to take the same class or you prefer some elementary knowledge summary. They are usually in pictures format with the source file being created by a cross-platform(`Windows`, `iOS`, `Andriod`) app *Concepts*. You can download the picture format to read or download the Concepts version to edit. 
+- FOR CHEATSHEET
+  
+  And there are also some cheatsheets I made for reviewing, which will be helpful if you are going to take the same class, or you prefer some elementary knowledge summary. They are usually in pictures format with the source file being created by a cross-platform(`Windows`, `iOS`, `Andriod`) app *Concepts*. You can download the picture format to read or download the Concepts version to edit. Hope you find it helpful!
 
 # Advanced classes in probability and statistics
 
@@ -56,7 +58,7 @@ Check out Michael's website for his great notes! [Math 7244](http://people.math.
 - Language: Chinese
 
 I wasn't taking any notes since he used slides. The review contents and summary(he covered way more contents than what's in herr) are here,
-- Summary [pdf](/CS/MachineLearning/content.pdf)[concepts](/CS/MachineLearning/content.concept)
+- Summary [pdf](/CS/MachineLearning/content.pdf) [concepts](/CS/MachineLearning/content.concept)
 - Review [concepts](/CS/MachineLearning/review.concept)
 
 # Elementary classes in probability and statistics
@@ -66,7 +68,7 @@ I wasn't taking any notes since he used slides. The review contents and summary(
 - Lecturer: Qihong Duan
 - Institute: Xi'an Jiaotong University
 - Reference book: 概率论, *苏淳*/Probability theorem, *Chun Su*
-- Grade: 96/A+/4.3
+- Grade: 96/A/4.0
 - Language: Chinese
 
 Solid probability class! [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwgatRW3r9LQ1shEr6_Q)
@@ -94,17 +96,17 @@ This class is too elementary since it wasn't measure theory based. However, it w
 - Lecturer: Chunxia Zhang, Hongying Zhang
 - Institute: Xi'an Jiaotong University
 - Reference book: A very aged and outdated one, I learned this class by her slides and google.
-- Grade: 97/A+/4.3
+- Grade: 97/A/4.0
 - Language: Chinese
 
-Review contents and summary are here [pdf](/CS/DataAna/1.pdf)[concepts](CS/DataAna/1.concepts). The concepts version contains different layer which can be used as a self-test.
+Review contents and summary are here [pdf](/CS/DataAna/1.pdf) [concepts](CS/DataAna/1.concepts). The concepts version contains different layer which can be used as a self-test.
 
 ## Elements of financial statistics
 
 - Lecturer: Yongchang Hui
 - Institute: Xi'an Jiaotong University
 - Reference book:
-- Grade:
+- Grade: 
 - Language: Chinese
 
 
@@ -127,7 +129,7 @@ Review contents and summary are here [pdf](/CS/DataAna/1.pdf)[concepts](CS/DataA
 - Grade:
   1. 90/A
   2. 90/A
-  3. 95/A+
+  3. 93/A
 - Language: Chinese
 
 Simply the best class I've ever taken in Xi'an Jiaotong University! My poor hand writing does not match up with the contents. [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwggSzfd1T_40d_XAy?e=vFwVNC)
@@ -141,7 +143,7 @@ Simply the best class I've ever taken in Xi'an Jiaotong University! My poor hand
   1. 80/B/3.0
   2. 79/B/3.0
 - Language: Chinese
-This class was notorious for its hard exams among class of 2021. But professor Wang did put a lot of efforts into it. I definitely could have done better. I would consider my linear algebra as solid, since I've been working with it for quite a long time and taking several course like matrix analysis as supplementary. [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwigb__Toq9opu9Pza)
+This class was notorious for its hard exams among class of 2021. But professor Wang did put a lot of efforts into it. I definitely could have done better. [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwigb__Toq9opu9Pza)
 
 ## Complex analysis
 
@@ -158,7 +160,7 @@ The note is missing many important parts because I bought the book and switched 
 - Lecturer: Lizhou Wang
 - Institute: Xi'an Jiaotong University
 - Reference book: Lecture notes
-- Grade: 96/A+/4.3
+- Grade: 96/A/4.0
 - Language: Chinese
 
 This real analysis class is too elementary since it didn't cover $L^p$ space and many other important topics.[OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwgah6w5kr7aP7h9JB0Q)
@@ -178,7 +180,7 @@ This real analysis class is too elementary since it didn't cover $L^p$ space and
 
 - Lecturer: Feng Li
 - Institute: Xi'an Jiaotong University
-- Reference book: 矩阵论, *戴华*/Matrix Theory *Hua Dai*, and Matrix analysis *A Horn*
+- Reference book: *矩阵论, 戴华*/*Matrix Theory, Hua Dai*, and *Matrix analysis, A Horn*
 - Grades: 93/A/4.0
 
 Solid class on improvements of linear algebra! [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwgakBPsWOsGR6vt5XxA)
@@ -192,7 +194,14 @@ Solid class on improvements of linear algebra! [OneNote](https://1drv.ms/u/s!AuA
 
 This class was extremly poor in quality, I find it hard to activite any of my aspiration on taking notes or even going to the class. I felt the lecturer didn't care about the class nor prepared the contents. So I skipped most of classes and of course didn't take any notes. And because of my absence, I got a 79(B) for the final grade. 
 
+## Optimization
 
+- Lecturer: Hui Li
+- Institute: Xi'an Jiaotong University
+- Reference book: His slides
+- Grade 89/A-/3.7
+
+Just 1 score distance to an A. I didn't take any notes on this class since he's using well organized slides. The lecturer introduced way more content than presented in the review, with a lot of which are absolutely graduate level even cutting edge level. The review content are organized by the requirements of the final. [pdf]() [concepts]
 
 
 
