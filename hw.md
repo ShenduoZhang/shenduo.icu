@@ -38,28 +38,40 @@ Institute: Xi'an Jiaotong University
 
 - Lecturer: Xuehu Zhu
 - Institute: Xi'an Jiaotong University
-- Collaborator: Shaokang Zu
+- Reference book: Lecture notes
+- Grade: Not available yet
 
 The reports are all in Chinese and the code writen are basically without much comments. But by running the code, you do reproduce what we did. Due to the fact that the class is still in progress, the repository is kept private for now.
 
-- Homework on `generalized linera model` and `asymptotic normality for parameter estimation in parameterized non-linear model`.
+- Homework on `generalized linera model` and `asymptotic normality for parameter estimation in parameterized non-linear model`. *Collaborated with Shaokang Zu.*
   - Report [pdf](https://martyrzsd.github.io/homework/2020/statisticalconsultary/1.pdf)
   - R code, R studio project and RMD notebook [code](https://github.com/martyrzsd/Statistical_Consultary)
 
-## Elements of big data analysis
+## Big data analysis
 
-- Lecture: Qian Zhao
+- Lecturer: Junmin Liu, Qian Zhao
 - Institute: Xi'an Jiaotong University
+- Reference book: Lecture notes
+- Grade: Not available yet
+
+## High-dimensional inference
+
+- Lecturer: Xuehu Zhu
+- Institute: Xi'an Jiaotong University
+- Reference book: Lecture notes
+- Grade: Not available yet
+
 
 # 2020 Spring
 
-## Machine learning(Chinese)
+## Machine learning
 
 - Lecturer: Deyu Meng
 - Institute: Xi'an Jiaotong University
+- Reference book: Lecture notes
 - Grade: 93/4/A
-- Collaborators: Zehao Wang, Chenghang Wang
-These works were jointly done in a group of three with Zehao Wang and Chenghang Wang. We had a good time together and personally I appreciate this pleasant collaboration experience.
+
+These works were jointly done in a group of three with Zehao Wang and Chenghang Wang. We had a good time together and personally I appreciate this pleasant collaboration experience. *Collaborators: Zehao Wang, Chenghang Wang*
 
 - `Overview of ML` and `different approach comparing to statistics`. [pdf](https://martyrzsd.github.io/homework/2020/machinelearning/1.pdf)
 - `SEIR` model on pandemic modelling. [pdf](https://martyrzsd.github.io/homework/2020/machinelearning/2.pdf)

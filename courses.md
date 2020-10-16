@@ -35,17 +35,17 @@ This page contains the math class I've taken and my notes as well as cheatsheets
 - Institute: Georgia Institute of Technology
 - Reference book: *Coordinate-free Approach to Linear Models, M. Wichura*
 - Grade: Audit, not available
-- Language: English
+- Note Language: English
 
 This was indeed a really good class, which basically set and firmed my interest in statistics. [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwgogKpsqlxwGQtEz7hg)
 
-## Stochastic calculus and brownian motion
+## Stochastic calculus and brownian motion*
 
 - Lecturer: Michael Damron
 - Institute: Georgia Institute of Technology
 - Reference book: GTM274-*Brownian motion, Martingale and Stochastic Calculus, Le Gall*
 - Grade: Audit, won't be available
-- Language: English
+- Note Language: English
 
 Check out Michael's website for his great notes! [Math 7244](http://people.math.gatech.edu/~mdamron6/teaching/Fall_2019/Math_7244/index.html)
 
@@ -55,11 +55,32 @@ Check out Michael's website for his great notes! [Math 7244](http://people.math.
 - Institute: Xi'an Jiaotong University
 - Reference book: Lectured with His slides, but I learned this class by reading *Machine Learning, ZH Zhou*
 - Grade: 93/A/4.0
-- Language: Chinese
+- Cheatsheet Language: Chinese
 
 I wasn't taking any notes since he used slides. The review contents and summary(he covered way more contents than what's in herr) are here,
 - Summary [pdf](/CS/MachineLearning/content.pdf) [concepts](/CS/MachineLearning/content.concept)
 - Review [concepts](/CS/MachineLearning/review.concept)
+
+## Statistical Consultary*
+
+- Lecturer: Xuehu Zhu
+- Institute: Xi'an Jiaotong University
+- Reference book: Lecture notes
+- Grade: Not available yet
+
+## High-dimensional inference*
+
+- Lecturer: Xuehu Zhu
+- Institute: Xi'an Jiaotong University
+- Reference book: Lecture notes
+- Grade: Not available yet
+
+## Big data analysis
+
+- Lecturer: Junmin Liu, Qian Zhao
+- Institute: Xi'an Jiaotong University
+- Reference book: Lecture notes
+- Grade: Not available yet
 
 # Elementary classes in probability and statistics
 
@@ -69,7 +90,7 @@ I wasn't taking any notes since he used slides. The review contents and summary(
 - Institute: Xi'an Jiaotong University
 - Reference book: *概率论, 苏淳*/*Probability theorem, Chun Su*
 - Grade: 96/A/4.0
-- Language: Chinese
+- Note Language: Chinese
 
 Solid probability class! [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwgatRW3r9LQ1shEr6_Q)
 
@@ -79,6 +100,7 @@ Solid probability class! [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwgatRW3r9LQ1sh
 - Institute: Georgia Institute of Technology
 - Reference book: *Introduction to Mathematical Statistics, R. Hogg*
 - Grade: A/4.0
+- Note Language: English
 
 Although the class has a reference book, the lecture notes are carefully organized and designed by Mayya! [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwgfc3Ni8W4Vc9X9Q4Uw)
 
@@ -88,6 +110,7 @@ Although the class has a reference book, the lecture notes are carefully organiz
 - Institute: Georgia Institute of Technology
 - Reference book: *Introduction to Probability model, S. Ross*
 - Grade: A/4.0
+- Note Language: English
 
 This class is too elementary since it wasn't measure theory based. However, it was a great class with a ton of examples. I am taking another class on continuous time random processes. [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwgfdJwCJ3FxPtSRvTfQ)
 
@@ -97,7 +120,7 @@ This class is too elementary since it wasn't measure theory based. However, it w
 - Institute: Xi'an Jiaotong University
 - Reference book: A very aged and outdated one, I learned this class by her slides and google.
 - Grade: 97/A/4.0
-- Language: Chinese
+- Cheatsheet Language: Chinese
 
 Review contents and summary are here [pdf](/CS/DataAna/1.pdf) [concepts](CS/DataAna/1.concepts). The concepts version contains different layer which can be used as a self-test.
 
@@ -107,7 +130,8 @@ Review contents and summary are here [pdf](/CS/DataAna/1.pdf) [concepts](CS/Data
 - Institute: Xi'an Jiaotong University
 - Reference book:
 - Grade: 
-- Language: Chinese
+
+I used an older student's notes, Yuji Lin who's now a graduate student at Xi'an Jiaotong University, as my review contents. I apppreciate his help and support not only for this particular help, but also on offering many important information for my career.
 
 
 ## Elements of biostatistics
@@ -116,7 +140,7 @@ Review contents and summary are here [pdf](/CS/DataAna/1.pdf) [concepts](CS/Data
 - Institute: Xi'an Jiaotong University
 - Reference book:
 - Grade:
-- Language: Chinese
+- Cheatsheet Language: Chinese
 
 
 # Elementary classes in mathematics
@@ -130,7 +154,7 @@ Review contents and summary are here [pdf](/CS/DataAna/1.pdf) [concepts](CS/Data
   1. 90/A
   2. 90/A
   3. 93/A
-- Language: Chinese
+- Note Language: Chinese
 
 Simply the best class I've ever taken in Xi'an Jiaotong University! My poor hand writing does not match up with the contents. [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwggSzfd1T_40d_XAy?e=vFwVNC)
 
@@ -142,7 +166,7 @@ Simply the best class I've ever taken in Xi'an Jiaotong University! My poor hand
 - Grade:
   1. 80/B/3.0
   2. 79/B/3.0
-- Language: Chinese
+- Note Language: Chinese
 This class was notorious for its hard exams among class of 2021. But professor Wang did put a lot of efforts into it. I definitely could have done better. [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwigb__Toq9opu9Pza)
 
 ## Complex analysis
@@ -151,7 +175,7 @@ This class was notorious for its hard exams among class of 2021. But professor W
 - Institute: Xi'an Jiaotong University
 - Reference book: *Complex Analysis, E. Stein*
 - Grade: 91/A/4.0
-- Language: Chinese
+- Note Language: Chinese
 
 The note is missing many important parts because I bought the book and switched to taking notes on the book for some while.[OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwgah8y9gs0tZ3B-dsUw)
 
@@ -161,7 +185,7 @@ The note is missing many important parts because I bought the book and switched 
 - Institute: Xi'an Jiaotong University
 - Reference book: Lecture notes
 - Grade: 96/A/4.0
-- Language: Chinese
+- Note Language: Chinese
 
 This real analysis class is too elementary since it didn't cover $L^p$ space and many other important topics.[OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwgah6w5kr7aP7h9JB0Q)
 
@@ -171,7 +195,7 @@ This real analysis class is too elementary since it didn't cover $L^p$ space and
 - Institute: Xi'an Jiaotong University
 - Reference book: Lecture notes
 - Grade: not availabel yet
-- Language: Chinese
+- Note Language: Chinese
 
 [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwgolW_ObBhQy1HcnDjg)
 
