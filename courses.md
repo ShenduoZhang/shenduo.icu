@@ -33,7 +33,7 @@ This page contains the math class I've taken and my notes as well as cheatsheets
 
 - Lecturer: Vladimir Koltchinskii
 - Institute: Georgia Institute of Technology
-- Reference book: Coordinate-free Approach to Linear Models *M. Wichura*
+- Reference book: *Coordinate-free Approach to Linear Models, M. Wichura*
 - Grade: Audit, not available
 - Language: English
 
@@ -43,7 +43,7 @@ This was indeed a really good class, which basically set and firmed my interest 
 
 - Lecturer: Michael Damron
 - Institute: Georgia Institute of Technology
-- Reference book: GTM274, Brownian motion, Martingale and Stochastic Calculus, *Le Gall*
+- Reference book: GTM274-*Brownian motion, Martingale and Stochastic Calculus, Le Gall*
 - Grade: Audit, won't be available
 - Language: English
 
@@ -67,7 +67,7 @@ I wasn't taking any notes since he used slides. The review contents and summary(
 
 - Lecturer: Qihong Duan
 - Institute: Xi'an Jiaotong University
-- Reference book: 概率论, *苏淳*/Probability theorem, *Chun Su*
+- Reference book: *概率论, 苏淳*/*Probability theorem, Chun Su*
 - Grade: 96/A/4.0
 - Language: Chinese
 
@@ -77,7 +77,7 @@ Solid probability class! [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwgatRW3r9LQ1sh
 
 - Lecturer: Mayya Zhilova
 - Institute: Georgia Institute of Technology
-- Reference book: Introduction to Mathematical Statistics, *R. Hogg*
+- Reference book: *Introduction to Mathematical Statistics, R. Hogg*
 - Grade: A/4.0
 
 Although the class has a reference book, the lecture notes are carefully organized and designed by Mayya! [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwgfc3Ni8W4Vc9X9Q4Uw)
@@ -86,7 +86,7 @@ Although the class has a reference book, the lecture notes are carefully organiz
 
 - Lecturer: Lutz Warnke
 - Institute: Georgia Institute of Technology
-- Reference book: Introduction to Probability model, *S. Ross*
+- Reference book: *Introduction to Probability model, S. Ross*
 - Grade: A/4.0
 
 This class is too elementary since it wasn't measure theory based. However, it was a great class with a ton of examples. I am taking another class on continuous time random processes. [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwgfdJwCJ3FxPtSRvTfQ)
@@ -149,7 +149,7 @@ This class was notorious for its hard exams among class of 2021. But professor W
 
 - Lecturer: Hongbin Chen
 - Institute: Xi'an Jiaotong University
-- Reference book: Complex Analysis *E. Stein*
+- Reference book: *Complex Analysis, E. Stein*
 - Grade: 91/A/4.0
 - Language: Chinese
 
