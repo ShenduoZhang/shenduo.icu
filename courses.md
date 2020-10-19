@@ -217,7 +217,7 @@ Solid class on improvements of linear algebra! [OneNote](https://1drv.ms/u/s!AuA
 - Reference book: A very bad one
 - Grade: 79/B
 
-This class was extremly poor in quality, I find it hard to activite any of my aspiration on taking notes or even going to the class. I felt the lecturer didn't care about the class nor prepared the contents. So I skipped most of classes and of course didn't take any notes. And because of my absence, I got a 79(B) for the final grade. 
+This class was extremly poor in quality, I found it hard to activite any of my aspiration on taking notes or even going to the class. I felt the lecturer didn't care about the class nor prepared the contents. So I skipped most of classes and of course didn't take any notes. And because of my absence, I got a 79(B) for the final grade. 
 
 ## Optimization
 
@@ -226,7 +226,7 @@ This class was extremly poor in quality, I find it hard to activite any of my as
 - Reference book: His slides
 - Grade 89/A-/3.7
 
-Just 1 score distance to an A. I didn't take any notes on this class since he's using well organized slides. The lecturer introduced way more content than presented in the review, with a lot of which are absolutely graduate level even cutting edge level. The review content are organized by the requirements of the final. [pdf]() [concepts]
+Just 1 score distance to an A. I didn't take any notes on this class since he's using well organized slides. The lecturer introduced way more content than presented in the review, with a lot of which are absolutely graduate level even cutting edge level. The review content are organized by the requirements of the final.  
 
 
 

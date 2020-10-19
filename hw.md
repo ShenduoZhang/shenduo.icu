@@ -85,8 +85,9 @@ These works were jointly done in a group of three with Zehao Wang and Chenghang 
 - Lecturer: Chunxia Zhang
 - Institute: Xi'an Jiaotong University
 - Grade: 97/A/4.0
+- Chinese
 
-Reports are in Chinese. 
+Reports are in Chinese because it was required.
 
 - `basic sample statistics`. [pdf](https://martyrzsd.github.io/homework/2020/dataanalysis/1.pdf)
 - `linear regression`. [pdf](https://martyrzsd.github.io/homework/2020/dataanalysis/2.pdf)
@@ -100,7 +101,8 @@ Reports are in Chinese.
 - Lecturer: Hongying Zhang
 - Institute: Xi'an Jiaotong University
 - Grade: 92/A/4.0
-  
+- English
+
 - Basic `visualization`. [pdf](https://martyrzsd.github.io/homework/2020/biostat/1.pdf)
 - `EM algorithm`. [pdf](https://martyrzsd.github.io/homework/2020/biostat/1.pdf)
 - `Chi-sqaure independence test`, `McNemar test (exact and normal)` and `Fisher exact test` with biological data. [pdf](https://martyrzsd.github.io/homework/2020/biostat/1.pdf)
@@ -112,8 +114,9 @@ Reports are in Chinese.
 - Lecturer: Hui Li
 - Institute: Xi'an Jiaotong University
 - Grade: 89/A-/3.7
+- Chinese
 
-This homework set contains many handwritten ones. I do not enjoy any reputation of good calligraphy, so be prepared and not drinking or eating while you read them, otherwise you may vomit on your device.
+This homework set contains many handwritten ones. I do not enjoy any reputation of good calligraphy, so be prepared while you read them.
 
 - `convexity`, `descend direction` and `optimality`. [pdf](homework/2020/opt/1.pdf)
 - `Linear programming` and `simplex`. [pdf](homework/2020/opt/2.pdf)
@@ -132,6 +135,7 @@ This homework set contains many handwritten ones. I do not enjoy any reputation 
 - Lecturer: Mayya Zhilova
 - Insititute: Georgia Institute of Technology
 - Grade: A/4.0
+- English
 
 Somehow there were only one homework for this class.
 
@@ -142,6 +146,7 @@ Somehow there were only one homework for this class.
 - Lecturer: Lutz Warnke
 - Insititute: Georgia Institute of Technology
 - Grade: A/4.0
+- English
 
 Lutz carefully organized this problems set, although it's absolutely more focused on problem solving.
 
@@ -154,10 +159,16 @@ Lutz carefully organized this problems set, although it's absolutely more focuse
 
 
 
-# 2018 Spring
+# 2017 Fall-2019 Spring
 
-## Advanced algebra(Chinese)
+Only the following homeworks are available
 
-# 2017 Fall 
+- Mathematical analysis (first semester out of three)
+- Advanced algebra (first semester out of two)
 
-## Mathematical analysis(Chinese)
+I was using electronic homeworks at first. However, I switched back to hand-written ones after the first semester. Because the TA in `Mathematical Analysis` gave me an incredible low score on my homework because of the using of electronic homeworks. Comparing to a regular grading to other students, my final score of this class was lower by 5/100, 95 -> 90. When I switched back to hand-written version, I got the same as everyone else did. At the time I didn't argue anything about this, because I literally didn't care about grades whatsoever. When I wanted to make more progress on academia later on and realized how much I lost on my GPA because of this injustice(this was a 96 hours per semester class), it was already too late. The TA in `advanced algebra` didn't donwgrade my homework for this reason. 
+
+Anyway, those contents are handwriten in Chinese in [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwg9EKYk2bIJ47jXsFUQ).
+
+However after this I wasn't using electronic homeworks anymore until I went to GaTech. Those homeworks are now basically all lost. SAD.
+
