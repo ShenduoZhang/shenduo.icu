@@ -10,7 +10,7 @@ toc: true
 
 # Shenduo Zhang
 
-He's an undergraduate at Xi'an Jiaotong University majoring statistics. 
+I'm an undergraduate at Xi'an Jiaotong University majoring statistics. 
 
 <img class="image image--lg" src="/me.jpeg"/>
 <img class="image image--lg" src="/me1.png"/>
@@ -21,13 +21,14 @@ He's an undergraduate at Xi'an Jiaotong University majoring statistics.
 
 Email: zhangshenduo at gmail dot com
 Academic: martyrzsd@stu.xjtu.edu.cn
+*Xianning Road, Xi'an, Shaanxi, China*
 
 # Public resources
 
 - [My notes](/courses.md)
 - [My homework](/hw.md)
 
-# Education
+# Education experience
 
 - **B.S.**, Xi'an Jiaotong University, *2017-2021* 
 - **Visiting student**, Georgia Institute of technology, *2019-2020*

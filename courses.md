@@ -9,7 +9,7 @@ aside:
   toc: true
 ---
 
-This page contains the math class I've taken and my notes as well as cheatsheets I made for review. Although all of the classes' exams are closed book in my school, I found it helpful to do a summary review and make a cheatsheet. Basically all of them are hand-writen digital notes. I tried and found it hard to keep my brain working while taking tex notes. I never enjoyed any reputation of good caligraphy. Be prepared when you read it. 
+This page contains math classes I've taken and my notes as well as cheatsheets I made for review. Although all of the classes' exams are closed book **(No cheatsheets)** in my school, I found it helpful to always do a summary review with cheatsheets. Basically all of them are hand-writen digital notes. I tried and found it hard to keep my brain working while taking tex notes. I never enjoyed any reputation of good caligraphy. Be prepared when you read it. Those star marks in the headings means the class is still in progress.
 
 - FOR NOTES
 
@@ -25,9 +25,9 @@ This page contains the math class I've taken and my notes as well as cheatsheets
 
 - FOR CHEATSHEET
   
-  And there are also some cheatsheets I made for reviewing, which will be helpful if you are going to take the same class, or you prefer some elementary knowledge summary. They are usually in pictures format with the source file being created by a cross-platform(`Windows`, `iOS`, `Andriod`) app *Concepts*. You can download the picture format to read or download the Concepts version to edit. Hope you find it helpful!
+  There are also some cheatsheets I made for reviewing, which will be helpful if you are going to take the same class, or you prefer some elementary knowledge summary. They are usually in pictures format with the source file being created by a cross-platform(`Windows`, `iOS`, `Andriod`) app *Concepts*. You can download the picture format to read or download the Concepts version to edit. Hope you find it helpful!
 
-# Advanced classes in probability and statistics
+# Classes in and statistics
 
 ## Linear model
 
@@ -39,25 +39,15 @@ This page contains the math class I've taken and my notes as well as cheatsheets
 
 This was indeed a really good class, which set and firmed my current interest in statistics. I was lucky to have this class as my first class in statistics. [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwgogKpsqlxwGQtEz7hg)
 
-## Stochastic calculus and brownian motion*
-
-- Lecturer: Michael Damron
-- Institute: Georgia Institute of Technology
-- Reference book: GTM274-*Brownian motion, Martingale and Stochastic Calculus, Le Gall*
-- Grade: Audit, won't be available
-- Note Language: English
-
-Check out Michael's website for his great notes! [Math 7244](http://people.math.gatech.edu/~mdamron6/teaching/Fall_2019/Math_7244/index.html)
-
 ## Machine learning
 
 - Lecturer: Deyu Meng
 - Institute: Xi'an Jiaotong University
-- Reference book: Lectured with His slides, but I learned this class by reading *Machine Learning, ZH Zhou*
+- Reference book: Lectured with His slides, but this is a good reference for the class. *Machine Learning, ZH Zhou*
 - Grade: 93/A/4.0
 - Cheatsheet Language: Chinese
 
-I wasn't taking any notes since he was using slides. The cheatsheets and summary(he covered way more contents than what's in herr) are here,
+I wasn't taking any notes since he was using slides. The cheatsheets and summary(he covered way more contents than what's presented) are here,
 - Summary [pdf](/CS/MachineLearning/content.pdf) [concepts](/CS/MachineLearning/content.concept)
 - Review [concepts](/CS/MachineLearning/review.concept)
 
@@ -112,7 +102,7 @@ Although the class had a reference book, the lecture notes were carefully organi
 - Grade: A/4.0
 - Note Language: English
 
-This class was too elementary since it wasn't measure theory based. However, it was a great class with a ton of examples. I am taking another class on continuous time random processes. [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwgfdJwCJ3FxPtSRvTfQ)
+This class is emphasized on basic idea and problem solving rather than measure theory. You can find a measure theory based one in my notes on stochastic calculus. [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwgfdJwCJ3FxPtSRvTfQ)
 
 ## Data analysis and R
 
@@ -122,73 +112,42 @@ This class was too elementary since it wasn't measure theory based. However, it 
 - Grade: 97/A/4.0
 - Cheatsheet Language: Chinese
 
-Review contents and summary are here [pdf](/CS/DataAna/1.pdf) [concepts](CS/DataAna/1.concepts). The concepts version contains different layer which can be used as a self-test.
+Review contents and summary are here [pdf](/CS/DataAna/1.pdf) [concepts](CS/DataAna/1.concepts). The concepts version contains different layers which can be used as a self-test.
 
 ## Elements of financial statistics
 
 - Lecturer: Yongchang Hui
 - Institute: Xi'an Jiaotong University
 - Reference book:
-- Grade: 
+- Grade: 87/A-/3.7
 
-I used an older student's notes, Yuji Lin who's now a graduate student at Xi'an Jiaotong University, as my review contents. I apppreciate his help and support not only for this particular help, but also on offering many important information for my career.
+The English translation on my transcript for this class was The Elements of Financial Econometrics, which was the name of one of the books we used rather than the name of the class. 
+I used an older student's notes, Yuji Lin who's now a graduate student at Xi'an Jiaotong University, as my review contents. I apppreciate his help and support not only for this particular help, but also on offering many important information for my career. I'm not able to offer meaningful help to you, sorry for that. 
 
 
 ## Elements of biostatistics
 
-- Lecturer: 
+- Lecturer: Limin Li
 - Institute: Xi'an Jiaotong University
-- Reference book:
-- Grade:
+- Reference book: *Funtamentals of Biostatistics, Bernard Rosner* 
+- Grade: 92/A/4.0
 - Cheatsheet Language: Chinese
 
+I made notes on my textbook, which won't be available online due to copyright reasons.
+The class also covered more contents than represented here. [pdf](CS/biostat/1.pdf) [concept](CS/biostat/1.concept)
 
-# Elementary classes in mathematics
+# Classes in mathematics
 
-## Mathematical analysis(Chinese)
+## Stochastic calculus and brownian motion*
 
-- Lecturer: Tian Li
-- Institute: Xi'an Jiaotong University
-- Reference book: Lecture notes
-- Grade:
-  1. 90/A
-  2. 90/A
-  3. 93/A
-- Note Language: Chinese
+- Lecturer: Michael Damron
+- Institute: Georgia Institute of Technology
+- Reference book: GTM274-*Brownian motion, Martingale and Stochastic Calculus, Le Gall*
+- Grade: Audit, won't be available
+- Note Language: English
 
-Simply the best class I've ever taken in Xi'an Jiaotong University! My poor hand writing does not match up with the contents. [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwggSzfd1T_40d_XAy?e=vFwVNC)
-
-## Advanced algebra
-
-- Lecturer: Wei Wang
-- Institute: Xi'an Jiaotong University
-- Reference book: Lecture notes
-- Grade:
-  1. 80/B/3.0
-  2. 79/B/3.0
-- Note Language: Chinese
-
-This class was notorious for its hard exams among the class of 2021. But professor Wang did put a lot of efforts into it. I definitely could have done better. [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwigb__Toq9opu9Pza)
-
-## Complex analysis
-
-- Lecturer: Hongbin Chen
-- Institute: Xi'an Jiaotong University
-- Reference book: *Complex Analysis, E. Stein*
-- Grade: 91/A/4.0
-- Note Language: Chinese
-
-The note is missing many important parts because I bought the book and switched to taking notes on the book for some while.[OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwgah8y9gs0tZ3B-dsUw)
-
-## Real analysis
-
-- Lecturer: Lizhou Wang
-- Institute: Xi'an Jiaotong University
-- Reference book: Lecture notes
-- Grade: 96/A/4.0
-- Note Language: Chinese
-
-This real analysis class was too elementary since it didn't cover $L^p$ space and many other important topics.[OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwgah6w5kr7aP7h9JB0Q)
+Check out Michael's website for his great notes! [Math 7244](http://people.math.gatech.edu/~mdamron6/teaching/Fall_2019/Math_7244/index.html)
+Mine expected to come soon.
 
 ## Functional analysis
 
@@ -200,7 +159,6 @@ This real analysis class was too elementary since it didn't cover $L^p$ space an
 
 [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwgolW_ObBhQy1HcnDjg)
 
-
 ## Matrix analysis
 
 - Lecturer: Feng Li
@@ -208,7 +166,61 @@ This real analysis class was too elementary since it didn't cover $L^p$ space an
 - Reference book: *矩阵论, 戴华*/*Matrix Theory, Hua Dai*, and *Matrix analysis, A Horn*
 - Grades: 93/A/4.0
 
-Solid class on improvements of linear algebra! [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwgakBPsWOsGR6vt5XxA)
+Contents are extremly useful in advanced research topics in advanced class and research in statistics! [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwgakBPsWOsGR6vt5XxA)
+
+## Optimization
+
+- Lecturer: Hui Li
+- Institute: Xi'an Jiaotong University
+- Reference book: Lecture slides
+- Grade 89/A-/3.7
+
+Just 1 score distance to an A. I didn't take any notes on this class since he's using very well organized slides. The lecturer introduced way more content than presented in the review, with a lot of which are absolutely graduate level even cutting edge level. The review content are organized according to the requirements of the closed book final. [pdf](CS/opt/1.pdf) [concept](CS/opt/1.concept)
+
+## Real analysis
+
+- Lecturer: Lizhou Wang
+- Institute: Xi'an Jiaotong University
+- Reference book: Lecture notes
+- Grade: 96/A/4.0
+- Note Language: Chinese
+
+This real analysis class was too elementary since it didn't cover $L^p$ space and many other important topics.[OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwgah6w5kr7aP7h9JB0Q)
+
+## Complex analysis
+
+- Lecturer: Hongbin Chen
+- Institute: Xi'an Jiaotong University
+- Reference book: *Complex Analysis, E. Stein*
+- Grade: 91/A/4.0
+- Note Language: Chinese
+
+The note is missing many important parts because I bought the book and switched to taking notes on the book for some while.[OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwgah8y9gs0tZ3B-dsUw)
+
+## Mathematical analysis
+
+- Lecturer: Tian Li
+- Institute: Xi'an Jiaotong University
+- Reference book: Lecture notes
+- Grade:
+  1. 90/A
+  2. 90/A
+  3. 93/A
+- Note Language: Chinese
+
+Simply the best class I've ever taken in Xi'an Jiaotong University! My poor hand writing does not match up with it. [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwggSzfd1T_40d_XAy?e=vFwVNC)
+
+## Advanced algebra
+
+- Lecturer: Wei Wang
+- Institute: Xi'an Jiaotong University
+- Reference book: Lecture notes
+- Grade:
+  1. 80/B/3.0
+  2. 79/B/3.0
+- Note Language: Chinese
+
+This class was notorious for its hard exams among the class of 2021. But professor Wang did put a lot of efforts into it and it was a solid class! I definitely could have done better. [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwigb__Toq9opu9Pza)
 
 ## ODE
 
@@ -218,15 +230,4 @@ Solid class on improvements of linear algebra! [OneNote](https://1drv.ms/u/s!AuA
 - Grade: 79/B
 
 This class was extremly poor in quality, I found it hard to activite any of my aspiration on taking notes or even going to the class. I felt the lecturer didn't care about the class nor prepared the contents. So I skipped most of classes and of course didn't take any notes. And because of my absence, I got a 79(B) for the final grade. 
-
-## Optimization
-
-- Lecturer: Hui Li
-- Institute: Xi'an Jiaotong University
-- Reference book: His slides
-- Grade 89/A-/3.7
-
-Just 1 score distance to an A. I didn't take any notes on this class since he's using well organized slides. The lecturer introduced way more content than presented in the review, with a lot of which are absolutely graduate level even cutting edge level. The review content are organized by the requirements of the final.  
-
-
 
