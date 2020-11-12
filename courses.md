@@ -229,5 +229,7 @@ This class was notorious for its hard exams among the class of 2021. But profess
 - Reference book: A very bad one
 - Grade: 79/B
 
-This class was extremly poor in quality, I found it hard to activite any of my aspiration on taking notes or even going to the class. I felt the lecturer didn't care about the class nor prepared the contents. So I skipped most of classes and of course didn't take any notes. And because of my absence, I got a 79(B) for the final grade. 
+<!-- This class was extremly poor in quality, I found it hard to activite any of my aspiration on taking notes or even going to the class. I felt the lecturer didn't care about the class nor prepared the contents. So I skipped most of classes and of course didn't take any notes. And because of my absence,  -->
+
+I got a 79(B) for the final grade because my abundance.
 

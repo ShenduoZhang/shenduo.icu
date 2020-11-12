@@ -176,9 +176,9 @@ Only the following homeworks are available
 - Mathematical analysis (first semester out of three)
 - Advanced algebra (first semester out of two)
 
-I was using electronic homeworks at first. However, I switched back to hand-written ones after the first semester. Because the TA in `Mathematical Analysis` gave me an incredible low score on my homework because of the using of electronic homeworks. Comparing to a regular grading to other students, my final score of this class was lower by 5/100, 95 -> 90. When I switched back to hand-written version, I got the same as everyone else did. At the time I didn't argue anything about this, because I literally didn't care about grades whatsoever. When I wanted to make more progress on academia later on and realized how much I lost on my GPA because of this injustice(this was a 96 hours per semester class), it was already too late. The TA in `advanced algebra` didn't donwgrade my homework for this reason. 
+<!-- I was using electronic homeworks at first. However, I switched back to hand-written ones after the first semester. Because the TA in `Mathematical Analysis` gave me an incredible low score on my homework because of the using of electronic homeworks. Comparing to a regular grading to other students, my final score of this class was lower by 5/100, 95 -> 90. When I switched back to hand-written version, I got the same as everyone else did. At the time I didn't argue anything about this, because I literally didn't care about grades whatsoever. When I wanted to make more progress on academia later on and realized how much I lost on my GPA because of this injustice(this was a 96 hours per semester class), it was already too late. The TA in `advanced algebra` didn't donwgrade my homework for this reason.  -->
 
-Anyway, those contents are handwriten in Chinese in [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwg9EKYk2bIJ47jXsFUQ).
+Those contents are handwriten in Chinese in [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwg9EKYk2bIJ47jXsFUQ).
 
 However after this I wasn't using electronic homeworks anymore until I went to GaTech. Those homeworks are now basically all lost. SAD.
 
