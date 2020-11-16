@@ -147,9 +147,9 @@ This homework set contains many handwritten ones. I do not enjoy any reputation 
 - Grade: A/4.0
 - English
 
-Somehow there were only one homework for this class.
+Somehow there was only one homework for this class.
 
-- [pdf](homework/2019/mathstat/1/pdf)
+- [pdf](homework/2019/mathstat/1.pdf)
 
 ## Stochastic processes
 
@@ -165,7 +165,6 @@ I appreciated the TA's effort in pointing out many mistakes in my homework, whic
 - [pdf](homework/2019/stochproc/3.pdf) [Corrected](homework/2019/stochproc/3a.pdf)
 - [pdf](homework/2019/stochproc/4.pdf) [Corrected](homework/2019/stochproc/4a.pdf)
 - [pdf](homework/2019/stochproc/5.pdf) [Corrected](homework/2019/stochproc/5a.pdf)
-- [pdf](homework/2019/stochproc/6.pdf) [Corrected](homework/2019/stochproc/6a.pdf)
 
 
 
