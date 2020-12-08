@@ -147,7 +147,7 @@ The class also covered more contents than represented here. [pdf](CS/biostat/1.p
 - Note Language: English
 
 Check out Michael's website for his great notes! [Math 7244](http://people.math.gatech.edu/~mdamron6/teaching/Fall_2019/Math_7244/index.html)
-Mine expected to come soon.
+Mine expected to come soon.(in hand written form)
 
 ## Functional analysis
 
@@ -220,7 +220,7 @@ Simply the best class I've ever taken in Xi'an Jiaotong University! My poor hand
   2. 79/B/3.0
 - Note Language: Chinese
 
-This class was notorious for its hard exams among the class of 2021. But professor Wang did put a lot of efforts into it and it was a solid class! I definitely could have done better. [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwigb__Toq9opu9Pza)
+Solid class but notorious for its hard exams among the class of 2021, particularly the second term. Professor Wang did put a lot of efforts into it and it was an indeed solid class! I definitely could have done better. [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwigb__Toq9opu9Pza)
 
 ## ODE
 
@@ -231,5 +231,5 @@ This class was notorious for its hard exams among the class of 2021. But profess
 
 <!-- This class was extremly poor in quality, I found it hard to activite any of my aspiration on taking notes or even going to the class. I felt the lecturer didn't care about the class nor prepared the contents. So I skipped most of classes and of course didn't take any notes. And because of my absence,  -->
 
-I got a 79(B) for the final grade because my abundance.
+I got a 79(B) for the final grade because of my abundance. I found the lecture completely a waste of time since the lecturer is just reading the textbook, and what make it even worse was that he seems to read it for the first time. 
 

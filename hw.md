@@ -33,7 +33,10 @@ If you have any questions about the material or found any errors, feel free to c
 - `Banach's theorem` and `Fredholm equation`. [pdf](https://martyrzsd.github.io/homework/2020/FA/3.pdf)
 - `projections`, `Banach space` and `Poincare inequalities`. [pdf](https://martyrzsd.github.io/homework/2020/FA/4.pdf)
 - `Inner product space`, `Hilber space` and `Orthogonal decomposition`. [pdf](https://martyrzsd.github.io/homework/2020/FA/5.pdf)
-- `Basis`. [pdf](https://martyrzsd.github.io/homework/2020/FA/6.pdf)
+- `Basis` and `Operator norm`. [pdf](https://martyrzsd.github.io/homework/2020/FA/6.pdf)
+- `Hahn-Banach theorem`, `Riesz representation theorem` and `Lax-Milgram theorem`. [pdf](https://martyrzsd.github.io/homework/2020/FA/7.pdf)
+- `Geometric form of Hahn-Banach theorem`. [pdf](https://martyrzsd.github.io/homework/2020/FA/8.pdf)
+- `Dual Space` and `Adjoint Operator`. [pdf](https://martyrzsd.github.io/homework/2020/FA/9.pdf)
 
 ## Statistical consultary 
 
@@ -53,6 +56,9 @@ The reports are all in Chinese and the code writen are basically without much co
 - Homework on `non-parametric density estimation` and `non-parametric regression`. *Collaborated with Shaokang Zu.*
   - Report [pdf](https://martyrzsd.github.io/homework/2020/statisticalconsultary/3.pdf)
   - R code, R studio project and RMD notebook [code](https://github.com/martyrzsd/Statistical_Consultary)
+- Final report on `optimality`.
+  - Slides [pdf](https://martyrzsd.github.io/homework/2020/statisticalconsultary/main.pdf)
+  - Report [pdf](https://martyrzsd.github.io/homework/2020/statisticalconsultary/final.pdf)
 
 
 ## Big data analysis
@@ -175,7 +181,7 @@ Only the following homeworks are available
 - Mathematical analysis (first semester out of three)
 - Advanced algebra (first semester out of two)
 
-<!-- I was using electronic homeworks at first. However, I switched back to hand-written ones after the first semester. Because the TA in `Mathematical Analysis` gave me an incredible low score on my homework because of the using of electronic homeworks. Comparing to a regular grading to other students, my final score of this class was lower by 5/100, 95 -> 90. When I switched back to hand-written version, I got the same as everyone else did. At the time I didn't argue anything about this, because I literally didn't care about grades whatsoever. When I wanted to make more progress on academia later on and realized how much I lost on my GPA because of this injustice(this was a 96 hours per semester class), it was already too late. The TA in `advanced algebra` didn't donwgrade my homework for this reason.  -->
+I was using electronic homeworks at first. However, I switched back to hand-written ones after the first semester. Because the TA in `Mathematical Analysis` gave me an incredible low score on my homework because of the using of electronic homeworks. Comparing to a regular grading to other students, my final score of this class was lower by 5/100, 95 -> 90. When I switched back to hand-written version, I got the same as everyone else did. At the time I didn't argue anything about this, because I literally didn't care about grades whatsoever. When I wanted to make more progress on academia later on and realized how much I lost on my GPA because of this injustice(this was a 96 hours per semester class), it was already too late. The TA in `advanced algebra` didn't donwgrade my homework for this reason. 
 
 Those contents are handwriten in Chinese in [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwg9EKYk2bIJ47jXsFUQ).
 
