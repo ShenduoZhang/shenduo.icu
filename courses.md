@@ -159,6 +159,8 @@ Mine expected to come soon.(in hand written form)
 
 [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwgolW_ObBhQy1HcnDjg)
 
+Very solid class on linear functional analysis! 
+
 ## Matrix analysis
 
 - Lecturer: Feng Li
