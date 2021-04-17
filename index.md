@@ -10,7 +10,7 @@ toc: true
 
 # Shenduo Zhang
 
-I'm an undergraduate at Xi'an Jiaotong University majoring statistics. 
+I'm an PhD student at Georgia Institute of Technology, enrolled in 2021 August. My research interests are mathematical statistics with an emphasize on high-dimensional problems. 
 
 <img class="image image--lg" src="/me.jpeg"/>
 <img class="image image--lg" src="/me1.png"/>
@@ -30,6 +30,7 @@ Academic: martyrzsd@stu.xjtu.edu.cn
 
 # Education experience
 
+- **Ph.D student**, Georgia Institute of Technology, *2021-now*
 - **B.S.**, Xi'an Jiaotong University, *2017-2021* 
 - **Visiting student**, Georgia Institute of technology, *2019-2020*
 - **High school**, Middle School Affiliated to Northwestern Polytechnical University, *2014-2017*

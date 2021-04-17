@@ -154,12 +154,12 @@ Mine expected to come soon.(in hand written form)
 - Lecturer: Jiaqing Yang
 - Institute: Xi'an Jiaotong University
 - Reference book: Lecture notes
-- Grade: not availabel yet
+- Grade: 79 (Failed once, passed the compensate with without curve.)
 - Note Language: Chinese
 
 [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwgolW_ObBhQy1HcnDjg)
 
-Very solid class on linear functional analysis! 
+Solid class on linear functional analysis, but it just happened. A great lesson for ``You don't care, you screw it up."
 
 ## Matrix analysis
 
