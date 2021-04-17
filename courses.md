@@ -9,25 +9,35 @@ aside:
   toc: true
 ---
 
-This page contains math classes I've taken and my notes as well as cheatsheets I made for review. Although all of the classes' exams are closed book **(No cheatsheets)** in my school, I found it helpful to always do a summary review with cheatsheets. Basically all of them are hand-writen digital notes. I tried and found it hard to keep my brain working while taking tex notes. I never enjoyed any reputation of good caligraphy. Be prepared when you read it. Those star marks in the headings means the class is still in progress.
+This page contains undergraduate classes I've taken and my notes as well as cheatsheets I made for reviewing. Basically all of them are hand-writen digital notes. I never enjoyed any reputation of good caligraphy. Be prepared when you read it. 
 
 - FOR NOTES
 
   Majority of the notes are taken using *OneNote*, which is a free cross-platform(`Windows`, `macOS`, `iOS`, `Andriod`, `web`) note taking software developed by `Microsoft`. 
 
-  - If you are outside China, you can access my notes by clicking the link [OneDrive] in each post.
+  <!-- - If you are outside China, you can access my notes by clicking the link [OneDrive] in each post.
   - If you are inside China, you can not access my notes by the link due to the internet restriction the government imposed on OneDrive. You can try following things,
     1. **(RECOMMENDED)** Find yourself a way to get over the restriction.
     2. Email me for the notes you are interested. Please specify who you are, what you are interested and your microsoft account in your email. I can give you access via email links. If I'm not replying, please email again. 
     3. **(NOT RECOMMENDED)** Find me in person.
 
-  Those notes are accessible anytime anywhere on any devices, which means it can serve as a handbook for your study. I did find myself forgetting things I've learned quite often, but I never found Microsoft did.
+  Those notes are accessible anytime anywhere on any devices, which means it can serve as a handbook for your study. I did find myself forgetting things I've learned quite often, but I never found Microsoft did. -->
 
 - FOR CHEATSHEET
   
-  There are also some cheatsheets I made for reviewing, which will be helpful if you are going to take the same class, or you prefer some elementary knowledge summary. They are usually in pictures format with the source file being created by a cross-platform(`Windows`, `iOS`, `Andriod`) app *Concepts*. You can download the picture format to read or download the Concepts version to edit. Hope you find it helpful!
+  Those are usually in pictures format with the source file being created by a cross-platform(`Windows`, `iOS`, `Andriod`) app *Concepts*. You can download the picture format to read or download the Concepts version to edit. Hope you find it helpful!
 
-# Classes in and statistics
+- FOR READING NOTES
+
+  I've been doing some reading since 2019. I plan to apply for a ``Special Topics`` class in Georgia Tech on some of those topics.
+
+# Reading Notes
+
+## Concentration
+
+- Reference book: *Concentration Inequalities, A Non-asymptotic Theory of Independence, S. Boucheron, etc.*
+
+# Statistics Class
 
 ## Linear model
 
@@ -115,9 +125,9 @@ I used an older student's notes, Yuji Lin who's now a graduate student at Xi'an 
 I made notes on my textbook, which won't be available online due to copyright reasons.
 The class also covered more contents than represented here. [pdf](CS/biostat/1.pdf) [concept](CS/biostat/1.concept)
 
-# Classes in mathematics
+# Mathematics Classes
 
-## Stochastic calculus and brownian motion*
+## Stochastic calculus and brownian motion
 
 - Lecturer: Michael Damron
 - Institute: Georgia Institute of Technology
@@ -133,7 +143,7 @@ Mine expected to come soon.(in hand written form)
 - Lecturer: Jiaqing Yang
 - Institute: Xi'an Jiaotong University
 - Reference book: Lecture notes
-- Grade: 79 (Failed once, passed the compensate without curve.)
+- Grade: 79 (Failed once, passed the compensate without curving.)
 - Note Language: Chinese
 
 [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwgolW_ObBhQy1HcnDjg)
