@@ -32,14 +32,3 @@ Academic: martyrzsd@stu.xjtu.edu.cn
 
 - **Ph.D student**, Georgia Institute of Technology, *2021-now*
 - **B.S.**, Xi'an Jiaotong University, *2017-2021* 
-- **Visiting student**, Georgia Institute of technology, *2019-2020*
-- **High school**, Middle School Affiliated to Northwestern Polytechnical University, *2014-2017*
-
-# Reseach Interest
-
-- High-dimensional statistics
-- Non-parametric statistics
-- Machine learning
-- Mathematical statistics
-- Optimality
-- Random matrix theory
