@@ -51,27 +51,6 @@ I wasn't taking any notes since he was using slides. The cheatsheets and summary
 - Summary [pdf](/CS/MachineLearning/content.pdf) [concepts](/CS/MachineLearning/content.concept)
 - Review [concepts](/CS/MachineLearning/review.concept)
 
-## Statistical Consultary*
-
-- Lecturer: Xuehu Zhu
-- Institute: Xi'an Jiaotong University
-- Reference book: Lecture notes
-- Grade: Not available yet
-
-## High-dimensional inference*
-
-- Lecturer: Xuehu Zhu
-- Institute: Xi'an Jiaotong University
-- Reference book: Lecture notes
-- Grade: Not available yet
-
-## Big data analysis
-
-- Lecturer: Junmin Liu, Qian Zhao
-- Institute: Xi'an Jiaotong University
-- Reference book: Lecture notes
-- Grade: Not available yet
-
 # Elementary classes in probability and statistics
 
 ## Probability
@@ -154,12 +133,12 @@ Mine expected to come soon.(in hand written form)
 - Lecturer: Jiaqing Yang
 - Institute: Xi'an Jiaotong University
 - Reference book: Lecture notes
-- Grade: 79 (Failed once, passed the compensate with without curve.)
+- Grade: 79 (Failed once, passed the compensate without curve.)
 - Note Language: Chinese
 
 [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwgolW_ObBhQy1HcnDjg)
 
-Solid class on linear functional analysis, but it just happened. A great lesson for ``You don't care, you screw it up."
+Solid class on linear functional analysis, but it just happened. A great lesson for "If You don't care, you screw it up."
 
 ## Matrix analysis
 
