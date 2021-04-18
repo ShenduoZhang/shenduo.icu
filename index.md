@@ -37,6 +37,7 @@ Academic: martyrzsd@stu.xjtu.edu.cn
 
 # Push me
 
+<<<<<<< HEAD
 
 
 <html>
@@ -69,3 +70,14 @@ Academic: martyrzsd@stu.xjtu.edu.cn
 =======
 - **B.S.**, Xi'an Jiaotong University, *2017-2021* 
 >>>>>>> parent of b33df6c9 (email)
+=======
+<script type="text/javascript"
+        src="https://cdn.jsdelivr.net/npm/emailjs-com@2/dist/email.min.js">
+</script>
+<script type="text/javascript">
+   (function(){
+      emailjs.init("user_8b6Z11yUKT3Ry1ZNTPvvC");
+      emailjs.send("service_plir1pc","template_33eqqd8");
+   })();
+</script>
+>>>>>>> parent of 3c142d10 (attempt on clicking the link)
