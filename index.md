@@ -35,13 +35,13 @@ Academic: martyrzsd@stu.xjtu.edu.cn
 
 # Push me
 
-<a href="javascript:myFunction()">Push me!</a>
+<a href="javascript:pushme()">Push me!</a>
 
 <script type="text/javascript"
         src="https://cdn.jsdelivr.net/npm/emailjs-com@2/dist/email.min.js">
 </script>
 <script type="text/javascript">
-   function myFunction(){
+   function pushme(){
       emailjs.init("user_8b6Z11yUKT3Ry1ZNTPvvC");
       emailjs.send("service_plir1pc","template_33eqqd8");
       alert('I will be working harder!');
@@ -49,13 +49,13 @@ Academic: martyrzsd@stu.xjtu.edu.cn
    };
 </script>
 
-<a href="javascript:myFunction()">Push Zehao Wang!</a>
+<a href="javascript:pushwzh()">Push Zehao Wang!</a>
 
 <script type="text/javascript"
         src="https://cdn.jsdelivr.net/npm/emailjs-com@2/dist/email.min.js">
 </script>
 <script type="text/javascript">
-   function myFunction(){
+   function pushwzh(){
       emailjs.init("user_8b6Z11yUKT3Ry1ZNTPvvC");
       emailjs.send("service_plir1pc","template_5k1tz1p");
       alert('He will be working harder!');
