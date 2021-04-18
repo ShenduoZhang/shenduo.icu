@@ -39,17 +39,12 @@ Academic: martyrzsd@stu.xjtu.edu.cn
 
 <html>
 <head>
-    <script type="text/javascript">
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/emailjs-com@2/dist/email.min.js">
         window.onload = function() {
           var a = document.getElementById("mylink");
           a.onclick = function() {
-            <script type="text/javascript"
-                    src="https://cdn.jsdelivr.net/npm/emailjs-com@2/dist/email.min.js"></script>
-            <script type="text/javascript">
-               (function(){
                   emailjs.init("user_8b6Z11yUKT3Ry1ZNTPvvC");
                   emailjs.send("service_plir1pc","template_33eqqd8");
-               })
             </script>
             return false;
           }
