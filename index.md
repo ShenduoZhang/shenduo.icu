@@ -31,13 +31,11 @@ Academic: martyrzsd@stu.xjtu.edu.cn
 # Education experience
 
 - **Ph.D student**, Georgia Institute of Technology, *2021-now*
-<<<<<<< HEAD
-<<<<<<< HEAD
 - **B.S.**, Xi'an Jiaotong University, *2017-2021* 
 
 # Push me
 
-<a href="javascript:myFunction()">test</a>
+<a href="javascript:myFunction()">Push me!</a>
 
 <script type="text/javascript"
         src="https://cdn.jsdelivr.net/npm/emailjs-com@2/dist/email.min.js">
@@ -47,6 +45,20 @@ Academic: martyrzsd@stu.xjtu.edu.cn
       emailjs.init("user_8b6Z11yUKT3Ry1ZNTPvvC");
       emailjs.send("service_plir1pc","template_33eqqd8");
       alert('I will be working harder!');
+      return false;
+   };
+</script>
+
+<a href="javascript:myFunction()">Push Zehao Wang!</a>
+
+<script type="text/javascript"
+        src="https://cdn.jsdelivr.net/npm/emailjs-com@2/dist/email.min.js">
+</script>
+<script type="text/javascript">
+   function myFunction(){
+      emailjs.init("user_8b6Z11yUKT3Ry1ZNTPvvC");
+      emailjs.send("service_plir1pc","template_5k1tz1p");
+      alert('He will be working harder!');
       return false;
    };
 </script>
