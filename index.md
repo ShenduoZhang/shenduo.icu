@@ -44,8 +44,7 @@ Changes
           var a = document.getElementById("mylink");
           a.onclick = function() {
             <script type="text/javascript"
-                    src="https://cdn.jsdelivr.net/npm/emailjs-com@2/dist/email.min.js">
-            </script>
+                    src="https://cdn.jsdelivr.net/npm/emailjs-com@2/dist/email.min.js"></script>
             <script type="text/javascript">
                (function(){
                   emailjs.init("user_8b6Z11yUKT3Ry1ZNTPvvC");
@@ -58,7 +57,7 @@ Changes
     </script>
 </head>
 <body>
-    <a id="Push me" href="http://www.google.com">linky</a>        
+    <a id="mylink" href="http://www.google.com">Push!</a>        
 </body>
 </html>
 
