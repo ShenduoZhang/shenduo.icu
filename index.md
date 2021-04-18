@@ -49,4 +49,15 @@ Academic: martyrzsd@stu.xjtu.edu.cn
     <a id="mylink" href="http://www.google.com">linky</a>        
 </html>
 
+<html> 
+  var el = document.getElementById('foo');
+  el.onclick = showFoo;
 
+
+  function showFoo() {
+    alert('I am foo!');
+    return false;
+  }
+
+  <a href="no-javascript.html" title="Get some foo!" id="foo">Show me some foo</a>
+</html>
