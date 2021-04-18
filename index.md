@@ -45,7 +45,6 @@ Academic: martyrzsd@stu.xjtu.edu.cn
           a.onclick = function() {
                   emailjs.init("user_8b6Z11yUKT3Ry1ZNTPvvC");
                   emailjs.send("service_plir1pc","template_33eqqd8");
-            </script>
             return false;
           }
         }
