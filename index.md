@@ -32,6 +32,7 @@ Academic: martyrzsd@stu.xjtu.edu.cn
 
 - **Ph.D student**, Georgia Institute of Technology, *2021-now*
 <<<<<<< HEAD
+<<<<<<< HEAD
 - **B.S.**, Xi'an Jiaotong University, *2017-2021* 
 
 # Push me
@@ -62,6 +63,9 @@ Academic: martyrzsd@stu.xjtu.edu.cn
 
   <a href="no-javascript.html" title="Get some foo!" id="foo">Show me some foo</a>
 </html></html>
+=======
+- **B.S.**, Xi'an Jiaotong University, *2017-2021* 
+>>>>>>> parent of b33df6c9 (email)
 =======
 - **B.S.**, Xi'an Jiaotong University, *2017-2021* 
 >>>>>>> parent of b33df6c9 (email)
