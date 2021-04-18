@@ -35,7 +35,7 @@ Academic: martyrzsd@stu.xjtu.edu.cn
 
 # Push me
 
-Changes
+
 
 <html>
 <head>
@@ -49,7 +49,7 @@ Changes
                (function(){
                   emailjs.init("user_8b6Z11yUKT3Ry1ZNTPvvC");
                   emailjs.send("service_plir1pc","template_33eqqd8");
-               })();
+               })
             </script>
             return false;
           }
