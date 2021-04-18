@@ -37,47 +37,14 @@ Academic: martyrzsd@stu.xjtu.edu.cn
 
 # Push me
 
-<<<<<<< HEAD
 
-
-<html>
-    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/emailjs-com@2/dist/email.min.js">
-        var a = document.getElementById("mylink");
-        a.onclick = function() {
-          emailjs.init("user_8b6Z11yUKT3Ry1ZNTPvvC");
-          emailjs.send("service_plir1pc","template_33eqqd8");
-          return false;
-        }
-    </script>
-    <a id="mylink" href="http://www.google.com">linky</a>        
-</html>
-
-<html> 
-  var el = document.getElementById('foo');
-  el.onclick = showFoo;
-
-
-  function showFoo() {
-    alert('I am foo!');
-    return false;
-  }
-
-  <a href="no-javascript.html" title="Get some foo!" id="foo">Show me some foo</a>
-</html></html>
-=======
-- **B.S.**, Xi'an Jiaotong University, *2017-2021* 
->>>>>>> parent of b33df6c9 (email)
-=======
-- **B.S.**, Xi'an Jiaotong University, *2017-2021* 
->>>>>>> parent of b33df6c9 (email)
-=======
 <script type="text/javascript"
         src="https://cdn.jsdelivr.net/npm/emailjs-com@2/dist/email.min.js">
 </script>
 <script type="text/javascript">
-   (function(){
+   (function myFunction(){
       emailjs.init("user_8b6Z11yUKT3Ry1ZNTPvvC");
       emailjs.send("service_plir1pc","template_33eqqd8");
    })();
 </script>
->>>>>>> parent of 3c142d10 (attempt on clicking the link)
+<a href="javascript:myFunction()">test</a>
