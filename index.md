@@ -38,7 +38,6 @@ Academic: martyrzsd@stu.xjtu.edu.cn
 
 
 <html>
-<head>
     <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/emailjs-com@2/dist/email.min.js">
         window.onload = function() {
           var a = document.getElementById("mylink");
@@ -49,10 +48,7 @@ Academic: martyrzsd@stu.xjtu.edu.cn
           }
         }
     </script>
-</head>
-<body>
-    <a id="mylink" href="http://www.google.com">Push!</a>        
-</body>
+    <a id="mylink" href="http://www.google.com">linky</a>        
 </html>
 
 
