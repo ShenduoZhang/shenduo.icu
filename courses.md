@@ -9,7 +9,7 @@ aside:
   toc: true
 ---
 
-This page contains undergraduate classes I've taken and my notes as well as cheat-sheets I made for reviewing. Basically all of them are hand-written digital notes. I never enjoyed any reputation of good calligraphy. Be prepared when you read it. 
+This page contains undergraduate classes I've taken and my notes as well as cheat-sheets I made for reviewing. Basically all of them are hand-written digital notes. I never enjoyed any reputation of good calligraphy. Be prepared when you read it. I've receive substantial amount of help from others who generously shared their notes to me during my career, so I made all of mine public.
 
 - FOR NOTES
 
@@ -31,12 +31,34 @@ This page contains undergraduate classes I've taken and my notes as well as chea
 
   I've been doing some reading since 2019. I plan to apply for a ``Special Topics`` class in Georgia Tech on some of those topics.
 
+I basically tried all kinds of common softwares on all platforms during my undergraduate study about taking notes in class and reading books. Eventually I find the best app is probably OneNote, which is also FAR from being flawless! And the best suggestion I give is to stay away from those useless tech. They look and feel fancy but not suitable for complicated reading and researching (although they are all great for taking notes in class). Write notes on physical paper and scan them in case you lose them.
+
 # Reading Notes
 
 ## Concentration
 
 - Reference book: *Concentration Inequalities, A Non-asymptotic Theory of Independence, S. Boucheron, etc.*
 - My notes and my solutions to exercises in the book. (Updating...) [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwhJNrUuwAfkGqlTH_rQ)
+
+## High-dimensional Probability
+
+- Reference book: *High dimensional probability. An introduction with applications in Data Science, by Roman Vershynin*
+-  My notes and solutions to the book. My notes of this book are partially here [MarginNote](marginnote3app://notebook/01B572B7-7014-4986-B8CD-9EC0DD655365). I will share the rest of them when the software I use to create them support convenient exporting.
+
+## Random Matrix theory
+
+- Reference book: *Topics in Random Matrix Theory, by Terence Tao*
+- Not available because of software issues. 
+
+## Non-Parametric Estimation
+
+- Reference book: *Introduction to Non-parametric Estimation, by Alexandre Tsybakov*
+- My notes are here [MarginNote](marginnote3app://notebook/561A402D-C38D-4D87-A870-075E07F1965A). The solution to the problem are not available because of software issues. And notes of the third chapter are partially here. [scanned pdf](CS/Tsy/Tsy.pdf)
+
+## Percolation theory
+
+- Reference book: *Noise sensitivity of Boolean functions and percolation, by Christophe Garban and Jeffrey E. Steif*
+- My notes of the book are here [MarginNote](marginnote3app://notebook/3A41C271-0698-42C6-87FF-98FFA53A78D4). I've made a dozen times of presentations to Michael Damron on this topic. Those are also not available in the moment because of software issue.
 
 # Statistics Class
 
