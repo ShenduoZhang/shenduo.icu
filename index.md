@@ -35,7 +35,7 @@ Academic: martyrzsd@stu.xjtu.edu.cn
 
 # Push me
 
-Click on the follwing links to push me and my friend to work harder. (Try not to click too many times, otherwise we will be exausted to death!)
+Click on the following links to push me and my friend to work harder. (Try not to click too many times, otherwise we will be exhausted to death!)
 
 <a href="javascript:push('pushme')">Push me!</a> 
 

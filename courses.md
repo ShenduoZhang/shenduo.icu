@@ -9,11 +9,11 @@ aside:
   toc: true
 ---
 
-This page contains undergraduate classes I've taken and my notes as well as cheatsheets I made for reviewing. Basically all of them are hand-writen digital notes. I never enjoyed any reputation of good caligraphy. Be prepared when you read it. 
+This page contains undergraduate classes I've taken and my notes as well as cheat-sheets I made for reviewing. Basically all of them are hand-written digital notes. I never enjoyed any reputation of good calligraphy. Be prepared when you read it. 
 
 - FOR NOTES
 
-  Majority of the notes are taken using *OneNote*, which is a free cross-platform(`Windows`, `macOS`, `iOS`, `Andriod`, `web`) note taking software developed by `Microsoft`. 
+  Majority of the notes are taken using *OneNote*, which is a free cross-platform(`Windows`, `macOS`, `iOS`, `Android`, `web`) note taking software developed by `Microsoft`. 
 
   <!-- - If you are outside China, you can access my notes by clicking the link [OneDrive] in each post.
   - If you are inside China, you can not access my notes by the link due to the internet restriction the government imposed on OneDrive. You can try following things,
@@ -25,7 +25,7 @@ This page contains undergraduate classes I've taken and my notes as well as chea
 
 - FOR CHEATSHEET
   
-  Those are usually in pictures format with the source file being created by a cross-platform(`Windows`, `iOS`, `Andriod`) app *Concepts*. You can download the picture format to read or download the Concepts version to edit. Hope you find it helpful!
+  Those are usually in pictures format with the source file being created by a cross-platform(`Windows`, `iOS`, `Android`) app *Concepts*. You can download the picture format to read or download the Concepts version to edit. Hope you find it helpful!
 
 - FOR READING NOTES
 
@@ -36,6 +36,7 @@ This page contains undergraduate classes I've taken and my notes as well as chea
 ## Concentration
 
 - Reference book: *Concentration Inequalities, A Non-asymptotic Theory of Independence, S. Boucheron, etc.*
+- My notes and my solutions to exercises in the book. (Updating...) [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwhJNrUuwAfkGqlTH_rQ)
 
 # Statistics Class
 
@@ -57,7 +58,7 @@ This was indeed a really good class, which set and firmed my current interest in
 - Grade: 93/A/4.0
 - Cheatsheet Language: Chinese
 
-I wasn't taking any notes since he was using slides. The cheatsheets and summary(he covered way more contents than what's presented) are here,
+I wasn't taking any notes since he was using slides. The cheat-sheets and summary(he covered way more contents than what's presented) are here,
 - Summary [pdf](/CS/MachineLearning/content.pdf) [concepts](/CS/MachineLearning/content.concept)
 - Review [concepts](/CS/MachineLearning/review.concept)
 
@@ -111,16 +112,16 @@ Review contents and summary are here [pdf](/CS/DataAna/1.pdf) [concepts](CS/Data
 - Grade: 87/A-/3.7
 
 The English translation on my transcript for this class was The Elements of Financial Econometrics, which was the name of one of the books we used rather than the name of the class. 
-I used an older student's notes, Yuji Lin who's now a graduate student at Xi'an Jiaotong University, as my review contents. I apppreciate his help and support not only for this particular help, but also on offering many important information for my career. I'm not able to offer meaningful help to you, sorry for that. 
+I used an older student's notes, Yuji Lin who's now a graduate student at Xi'an Jiaotong University, as my review contents. I appreciate his help and support not only for this particular help, but also on offering many important information for my career. I'm not able to offer meaningful help to you, sorry for that. 
 
 
 ## Elements of biostatistics
 
 - Lecturer: Limin Li
 - Institute: Xi'an Jiaotong University
-- Reference book: *Funtamentals of Biostatistics, Bernard Rosner* 
+- Reference book: *Fundamentals of Biostatistics, Bernard Rosner* 
 - Grade: 92/A/4.0
-- Cheatsheet Language: Chinese
+- Cheat-sheet Language: Chinese
 
 I made notes on my textbook, which won't be available online due to copyright reasons.
 The class also covered more contents than represented here. [pdf](CS/biostat/1.pdf) [concept](CS/biostat/1.concept)
@@ -157,7 +158,7 @@ Solid class on linear functional analysis, but it just happened. A great lesson 
 - Reference book: *矩阵论, 戴华*/*Matrix Theory, Hua Dai*, and *Matrix analysis, A Horn*
 - Grades: 93/A/4.0
 
-Contents are extremly useful in advanced research topics in advanced class and research in statistics! [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwgakBPsWOsGR6vt5XxA)
+Contents are extremely useful in advanced research topics in advanced class and research in statistics! [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwgakBPsWOsGR6vt5XxA)
 
 ## Optimization
 
