@@ -47,7 +47,7 @@ Click on the follwing link to push me and my friend to work harder.
    function push(token){
       emailjs.init("user_8b6Z11yUKT3Ry1ZNTPvvC");
       emailjs.send("service_plir1pc",token);
-      alert('I will be working harder!');
+      alert('We will be working harder!');
       return false;
    };
 </script>
