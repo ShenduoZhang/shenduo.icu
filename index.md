@@ -35,9 +35,10 @@ Academic: martyrzsd@stu.xjtu.edu.cn
 
 # Push me
 
-Click on the follwing link to push me and my friend to work harder. 
+Click on the follwing links to push me and my friend to work harder. (Try not to click too many times, otherwise we will be exausted to death!)
 
-<a href="javascript:push('pushme')">Push me!</a>
+<a href="javascript:push('pushme')">Push me!</a> 
+
 <a href="javascript:push('wzh')">Push Zehao Wang!</a>
 
 <script type="text/javascript"
