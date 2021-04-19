@@ -35,15 +35,15 @@ Academic: martyrzsd@stu.xjtu.edu.cn
 
 # Push me
 
-<a href="javascript:pushme()">Push me!</a>
+<a href="javascript:push('pushme')">Push me!</a>
 
 <script type="text/javascript"
         src="https://cdn.jsdelivr.net/npm/emailjs-com@2/dist/email.min.js">
 </script>
 <script type="text/javascript">
-   function pushme(){
+   function push(token){
       emailjs.init("user_8b6Z11yUKT3Ry1ZNTPvvC");
-      emailjs.send("service_plir1pc","template_33eqqd8");
+      emailjs.send("service_plir1pc",token);
       alert('I will be working harder!');
       return false;
    };
