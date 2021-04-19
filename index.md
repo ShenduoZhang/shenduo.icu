@@ -35,7 +35,10 @@ Academic: martyrzsd@stu.xjtu.edu.cn
 
 # Push me
 
+Click on the follwing link to push me and my friend to work harder. 
+
 <a href="javascript:push('pushme')">Push me!</a>
+<a href="javascript:push('wzh')">Push Zehao Wang!</a>
 
 <script type="text/javascript"
         src="https://cdn.jsdelivr.net/npm/emailjs-com@2/dist/email.min.js">
@@ -45,20 +48,6 @@ Academic: martyrzsd@stu.xjtu.edu.cn
       emailjs.init("user_8b6Z11yUKT3Ry1ZNTPvvC");
       emailjs.send("service_plir1pc",token);
       alert('I will be working harder!');
-      return false;
-   };
-</script>
-
-<a href="javascript:pushwzh()">Push Zehao Wang!</a>
-
-<script type="text/javascript"
-        src="https://cdn.jsdelivr.net/npm/emailjs-com@2/dist/email.min.js">
-</script>
-<script type="text/javascript">
-   function pushwzh(){
-      emailjs.init("user_8b6Z11yUKT3Ry1ZNTPvvC");
-      emailjs.send("service_plir1pc","template_5k1tz1p");
-      alert('He will be working harder!');
       return false;
    };
 </script>
