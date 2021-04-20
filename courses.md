@@ -9,7 +9,7 @@ aside:
   toc: true
 ---
 
-This page contains undergraduate classes I've taken and my notes as well as cheat-sheets I made for reviewing. Basically all of them are hand-written digital notes. I never enjoyed any reputation of good calligraphy. Be prepared when you read it. I've receive substantial amount of help from others who generously shared their notes to me during my career, so I made all of mine public.
+This page contains undergraduate classes I've taken and my notes as well as cheat-sheets I made for reviewing. Basically all of them are hand-written digital notes. I never enjoyed any reputation of good calligraphy. Be prepared when you read it. 
 
 - FOR NOTES
 
