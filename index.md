@@ -10,7 +10,9 @@ toc: true
 
 # Shenduo Zhang
 
-I'm a math PhD student at Georgia Institute of Technology, enrolled in 2021 August. My research interests are mathematical statistics with an emphasize on high-dimensional problems. 
+I'm a math PhD student at Georgia Institute of Technology, enrolled in 2021 August. My research interests is mathematical statistics with an emphasize on high-dimensional problems. 
+
+我的中文名字是张申铎. 
 
 <img class="image image--lg" src="/me.jpeg"/>
 <img class="image image--lg" src="/me1.png"/>
@@ -19,19 +21,24 @@ I'm a math PhD student at Georgia Institute of Technology, enrolled in 2021 Augu
 
 # Contact
 
-Email: zhangshenduo at gmail dot com
-Academic: martyrzsd@stu.xjtu.edu.cn/zhangshenduo@gatech.edu
-*Xianning Road, Xi'an, Shaanxi, China*
+Personal: zhangshenduo at gmail dot com
+
+Academic: sdzhang at gatech dot edu
 
 # Public resources
 
-- [My notes](/courses.md)
-- [My homework](/hw.md)
+- [Teaching](/teaching.md)
+- [My undergraduate notes](/courses.md)
+- [My undergraduate homework](/hw.md)
 
 # Education experience
 
 - **Ph.D student**, Georgia Institute of Technology, *2021-now*
 - **B.S.**, Xi'an Jiaotong University, *2017-2021* 
+
+# Publication
+
+Nothing yet.
 
 # Push me
 

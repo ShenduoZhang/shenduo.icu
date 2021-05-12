@@ -10,6 +10,13 @@ header:
   # - titles: 
   #     en      : &EN      CV
   #   url: /cv.pdf
+    - titles:
+      # @start locale config
+      en      : &EN       Teaching
+      #zh-Hans : &ZH_HANS  关于
+
+      # @end locale config
+    url: /teaching.html
   - titles:
       # @start locale config
       en      : &EN       Homework
