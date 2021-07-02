@@ -17,9 +17,9 @@ header:
 
       # @end locale config
     url: /teaching.html
-  - titles:
+#  - titles:
       # @start locale config
-      en      : &EN       Homework
+#      en      : &EN       Homework
       #zh-Hans : &ZH_HANS  关于
 
       # @end locale config

@@ -166,16 +166,6 @@ Somehow there was only one homework for this class.
 - Grade: A/4.0
 - English
 
-I appreciated the TA's effort in pointing out many mistakes in my homework, which was marked in the corrected version.
-
-- [pdf](homework/2019/stochproc/1.pdf) [Corrected](homework/2019/stochproc/1a.pdf)
-- [pdf](homework/2019/stochproc/2.pdf) [Corrected](homework/2019/stochproc/2a.pdf)
-- [pdf](homework/2019/stochproc/3.pdf) [Corrected](homework/2019/stochproc/3a.pdf)
-- [pdf](homework/2019/stochproc/4.pdf) [Corrected](homework/2019/stochproc/4a.pdf)
-- [pdf](homework/2019/stochproc/5.pdf) [Corrected](homework/2019/stochproc/5a.pdf)
-
-
-
 # 2017 Fall-2019 Spring
 
 Only the following homeworks are available
