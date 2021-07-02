@@ -23,7 +23,7 @@ header:
       #zh-Hans : &ZH_HANS  关于
 
       # @end locale config
-    url: /hw.html
+#    url: /hw.html
   - titles: 
       en      : &EN       Courses
     url:  /courses.html
