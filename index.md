@@ -29,7 +29,6 @@ Academic: sdzhang at gatech dot edu
 
 - [Teaching](/teaching.md)
 - [My undergraduate notes](/courses.md)
-- [My undergraduate homework](/hw.md)
 
 # Education experience
 
