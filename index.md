@@ -21,9 +21,7 @@ I'm a math PhD student at Georgia Institute of Technology, enrolled in 2021 Augu
 
 # Contact
 
-Personal: zhangshenduo at gmail dot com
-
-Academic: sdzhang at gatech dot edu
+Academic: szhang705 at gatech dot edu
 
 # Public resources
 
