@@ -40,6 +40,10 @@ Nothing yet.
 
 ## Push me
 
+I use a private repository to store all my homework tex files. But you can see my commit frequency in the following images. This is an indication of my current load and if I've been working.
+
+<img src="http://ghchart.rshah.org/martyrzsd" alt="Shenduo's github history" />
+
 Click on the following links to push me and my friend to work harder. (Try not to click too many times, otherwise we will be exhausted to death!)
 
 <a href="javascript:push('pushme')">Push me!</a>
