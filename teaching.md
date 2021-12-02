@@ -13,4 +13,4 @@ aside:
 
 # TA resources
 
-coming soon.
+- 2021 Fall, Math 2550 L01 Multivariate Calculus, available on Canvas pages.

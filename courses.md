@@ -9,11 +9,13 @@ aside:
   toc: true
 ---
 
-This page contains undergraduate classes I've taken and my notes as well as cheat-sheets I made for reviewing. Basically all of them are hand-written digital notes. I never enjoyed any reputation of good calligraphy. Be prepared when you read it. 
+# Undergraduate notes
 
-- FOR NOTES
+This page contains undergraduate classes I've taken and my notes as well as cheat-sheets I made for reviewing. Basically all of them are hand-written digital notes. I never enjoyed any reputation of good calligraphy. Be prepared when you read it. And if you are a professor who taught me those course and feel violated by me sharing it, please let me know. I will pull them down immediately when I receive your email.
 
-  Majority of the notes are taken using *OneNote*, which is a free cross-platform(`Windows`, `macOS`, `iOS`, `Android`, `web`) note taking software developed by `Microsoft`. 
+<!-- - FOR NOTES -->
+
+Majority of the notes are taken using *OneNote*, which is a free cross-platform(`Windows`, `macOS`, `iOS`, `Android`, `web`) note taking software developed by `Microsoft`. 
 
   <!-- - If you are outside China, you can access my notes by clicking the link [OneDrive] in each post.
   - If you are inside China, you can not access my notes by the link due to the internet restriction the government imposed on OneDrive. You can try following things,
@@ -22,47 +24,47 @@ This page contains undergraduate classes I've taken and my notes as well as chea
     3. **(NOT RECOMMENDED)** Find me in person.
 
   Those notes are accessible anytime anywhere on any devices, which means it can serve as a handbook for your study. I did find myself forgetting things I've learned quite often, but I never found Microsoft did. -->
-
-- FOR CHEATSHEET
+<!-- 
+- FOR Cheat-sheet
   
   Those are usually in pictures format with the source file being created by a cross-platform(`Windows`, `iOS`, `Android`) app *Concepts*. You can download the picture format to read or download the Concepts version to edit. Hope you find it helpful!
 
 - FOR READING NOTES
 
-  I've been doing some reading since 2019. I plan to apply for a ``Special Topics`` class in Georgia Tech on some of those topics.
+  I've been doing some reading since 2019. I plan to apply for a ``Special Topics`` class in Georgia Tech on some of those topics. -->
 
-I basically tried all kinds of common softwares on all platforms during my undergraduate study about taking notes in class and reading books. Eventually I find the best app is probably OneNote, which is also FAR from being flawless! And the best suggestion I give is to stay away from those useless tech. They look and feel fancy but not suitable for complicated reading and researching (although they are all great for taking notes in class). Write notes on physical paper and scan them in case you lose them.
+I basically tried all kinds of common softwares on all platforms during my undergraduate study about taking notes in class and reading math books. Eventually I find the best app is probably OneNote, which is also FAR from being flawless! And the best suggestion I give is to stay away from those useless tech. They look and feel fancy but not suitable for complicated reading and researching (although they are all great for taking notes in class). 
 
-# Reading Notes
+## Reading Notes
 
-## Concentration
+### Concentration
 
 - Reference book: *Concentration Inequalities, A Non-asymptotic Theory of Independence, S. Boucheron, etc.*
 - My notes and my solutions to exercises in the book. (Updating...) [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwhJNrUuwAfkGqlTH_rQ)
 
-## High-dimensional Probability
+### High-dimensional Probability
 
 - Reference book: *High dimensional probability. An introduction with applications in Data Science, by Roman Vershynin*
 -  My notes and solutions to the book. My notes of this book are partially here [MarginNote](marginnote3app://notebook/01B572B7-7014-4986-B8CD-9EC0DD655365). I will share the rest of them when the software I use to create them support convenient exporting.
 
-## Random Matrix theory
+### Random Matrix theory
 
 - Reference book: *Topics in Random Matrix Theory, by Terence Tao*
 - Not available because of software issues. 
 
-## Non-Parametric Estimation
+### Non-Parametric Estimation
 
 - Reference book: *Introduction to Non-parametric Estimation, by Alexandre Tsybakov*
 - My notes are here [MarginNote](marginnote3app://notebook/561A402D-C38D-4D87-A870-075E07F1965A). The solution to the problem are not available because of software issues. And notes of the third chapter are partially here. [scanned pdf](CS/Tsy/Tsy.pdf)
 
-## Percolation theory
+### Percolation theory
 
 - Reference book: *Noise sensitivity of Boolean functions and percolation, by Christophe Garban and Jeffrey E. Steif*
 - My notes of the book are here [MarginNote](marginnote3app://notebook/3A41C271-0698-42C6-87FF-98FFA53A78D4). I've made a dozen times of presentations to Michael Damron on this topic. Those are also not available in the moment because of software issue.
 
-# Statistics Class
+## Statistics Class
 
-## Linear model
+### Linear model
 
 - Lecturer: Vladimir Koltchinskii
 - Institute: Georgia Institute of Technology
@@ -72,7 +74,7 @@ I basically tried all kinds of common softwares on all platforms during my under
 
 This was indeed a really good class, which set and firmed my current interest in statistics. I was lucky to have this class as my first class in statistics. [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwgogKpsqlxwGQtEz7hg)
 
-## Machine learning
+### Machine learning
 
 - Lecturer: Deyu Meng
 - Institute: Xi'an Jiaotong University
@@ -84,9 +86,9 @@ I wasn't taking any notes since he was using slides. The cheat-sheets and summar
 - Summary [pdf](/CS/MachineLearning/content.pdf) [concepts](/CS/MachineLearning/content.concept)
 - Review [concepts](/CS/MachineLearning/review.concept)
 
-# Elementary classes in probability and statistics
+## Elementary classes in probability and statistics
 
-## Probability
+### Probability
 
 - Lecturer: Qihong Duan
 - Institute: Xi'an Jiaotong University
@@ -96,7 +98,7 @@ I wasn't taking any notes since he was using slides. The cheat-sheets and summar
 
 Solid probability class! [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwgatRW3r9LQ1shEr6_Q)
 
-## Mathematical statistics
+### Mathematical statistics
 
 - Lecturer: Mayya Zhilova
 - Institute: Georgia Institute of Technology
@@ -106,7 +108,7 @@ Solid probability class! [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwgatRW3r9LQ1sh
 
 Although the class had a reference book, the lecture notes were carefully organized and designed by Mayya! [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwgfc3Ni8W4Vc9X9Q4Uw)
 
-## Stochastic process
+### Stochastic process
 
 - Lecturer: Lutz Warnke
 - Institute: Georgia Institute of Technology
@@ -116,7 +118,7 @@ Although the class had a reference book, the lecture notes were carefully organi
 
 This class is emphasized on basic idea and problem solving rather than measure theory. You can find a measure theory based one in my notes on stochastic calculus. [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwgfdJwCJ3FxPtSRvTfQ)
 
-## Data analysis and R
+### Data analysis and R
 
 - Lecturer: Chunxia Zhang, Hongying Zhang
 - Institute: Xi'an Jiaotong University
@@ -126,7 +128,7 @@ This class is emphasized on basic idea and problem solving rather than measure t
 
 Review contents and summary are here [pdf](/CS/DataAna/1.pdf) [concepts](CS/DataAna/1.concepts). The concepts version contains different layers which can be used as a self-test.
 
-## Elements of financial statistics
+### Elements of financial statistics
 
 - Lecturer: Yongchang Hui
 - Institute: Xi'an Jiaotong University
@@ -136,8 +138,7 @@ Review contents and summary are here [pdf](/CS/DataAna/1.pdf) [concepts](CS/Data
 The English translation on my transcript for this class was The Elements of Financial Econometrics, which was the name of one of the books we used rather than the name of the class. 
 I used an older student's notes, Yuji Lin who's now a graduate student at Xi'an Jiaotong University, as my review contents. I appreciate his help and support not only for this particular help, but also on offering many important information for my career. I'm not able to offer meaningful help to you, sorry for that. 
 
-
-## Elements of biostatistics
+### Elements of biostatistics
 
 - Lecturer: Limin Li
 - Institute: Xi'an Jiaotong University
@@ -148,9 +149,9 @@ I used an older student's notes, Yuji Lin who's now a graduate student at Xi'an 
 I made notes on my textbook, which won't be available online due to copyright reasons.
 The class also covered more contents than represented here. [pdf](CS/biostat/1.pdf) [concept](CS/biostat/1.concept)
 
-# Mathematics Classes
+## Mathematics Classes
 
-## Stochastic calculus and brownian motion
+### Stochastic calculus and brownian motion
 
 - Lecturer: Michael Damron
 - Institute: Georgia Institute of Technology
@@ -161,7 +162,7 @@ The class also covered more contents than represented here. [pdf](CS/biostat/1.p
 Check out Michael's website for his great notes! [Math 7244](http://people.math.gatech.edu/~mdamron6/teaching/Fall_2019/Math_7244/index.html)
 Mine expected to come soon.(in hand written form)
 
-## Functional analysis
+### Functional analysis
 
 - Lecturer: Jiaqing Yang
 - Institute: Xi'an Jiaotong University
@@ -173,7 +174,7 @@ Mine expected to come soon.(in hand written form)
 
 Solid class on linear functional analysis, but it just happened. A great lesson for "If You don't care, you screw it up."
 
-## Matrix analysis
+### Matrix analysis
 
 - Lecturer: Feng Li
 - Institute: Xi'an Jiaotong University
@@ -182,7 +183,7 @@ Solid class on linear functional analysis, but it just happened. A great lesson 
 
 Contents are extremely useful in advanced research topics in advanced class and research in statistics! [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwgakBPsWOsGR6vt5XxA)
 
-## Optimization
+### Optimization
 
 - Lecturer: Hui Li
 - Institute: Xi'an Jiaotong University
@@ -191,7 +192,7 @@ Contents are extremely useful in advanced research topics in advanced class and 
 
 Just 1 score distance to an A. I didn't take any notes on this class since he's using very well organized slides. The lecturer introduced way more content than presented in the review, with a lot of which are absolutely graduate level even cutting edge level. The review content are organized according to the requirements of the closed book final. [pdf](CS/opt/1.pdf) [concept](CS/opt/1.concept)
 
-## Real analysis
+### Real analysis
 
 - Lecturer: Lizhou Wang
 - Institute: Xi'an Jiaotong University
@@ -201,7 +202,7 @@ Just 1 score distance to an A. I didn't take any notes on this class since he's 
 
 This real analysis class was too elementary since it didn't cover $L^p$ space and many other important topics.[OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwgah6w5kr7aP7h9JB0Q)
 
-## Complex analysis
+### Complex analysis
 
 - Lecturer: Hongbin Chen
 - Institute: Xi'an Jiaotong University
@@ -211,7 +212,7 @@ This real analysis class was too elementary since it didn't cover $L^p$ space an
 
 The note is missing many important parts because I bought the book and switched to taking notes on the book for some while.[OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwgah8y9gs0tZ3B-dsUw)
 
-## Mathematical analysis
+### Mathematical analysis
 
 - Lecturer: Tian Li
 - Institute: Xi'an Jiaotong University
@@ -224,7 +225,7 @@ The note is missing many important parts because I bought the book and switched 
 
 Simply the best class I've ever taken in Xi'an Jiaotong University! My poor hand writing does not match up with it. [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwggSzfd1T_40d_XAy?e=vFwVNC)
 
-## Advanced algebra
+### Advanced algebra
 
 - Lecturer: Wei Wang
 - Institute: Xi'an Jiaotong University
@@ -236,7 +237,7 @@ Simply the best class I've ever taken in Xi'an Jiaotong University! My poor hand
 
 Solid class but notorious for its hard exams among the class of 2021, particularly the second term. Professor Wang did put a lot of efforts into it and it was an indeed solid class! I definitely could have done better. [OneNote](https://1drv.ms/u/s!AuAcaKqHRKbwigb__Toq9opu9Pza)
 
-## ODE
+### ODE
 
 - Lecturer: Zhandong Mei
 - Institute: Xi'an Jiaotong University
@@ -245,5 +246,4 @@ Solid class but notorious for its hard exams among the class of 2021, particular
 
 <!-- This class was extremly poor in quality, I found it hard to activite any of my aspiration on taking notes or even going to the class. I felt the lecturer didn't care about the class nor prepared the contents. So I skipped most of classes and of course didn't take any notes. And because of my absence,  -->
 
-I got a 79(B) for the final grade because of my absence. I found the lecture completely a waste of time since the lecturer is just reading the textbook, and what make it even worse was that he seems to read it for the first time. 
-
+I got a 79(B) for the final grade because of my absence. I found the lecture completely a waste of time since the lecturer is just reading the textbook, and what make it even worse was that he seems to read it for the first time.
