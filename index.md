@@ -26,6 +26,7 @@ Academic: szhang705 at gatech dot edu
 # Public resources
 
 - [Teaching](/teaching.md)
+  TA for MATH 2550 (2021 Fall, 1 studio section)
 - [My undergraduate notes](/courses.md)
 
 # Education experience
