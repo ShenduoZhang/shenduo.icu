@@ -11,7 +11,7 @@
 #    |  |  \   --. /  .'.  \  |  |
 #    `--'   `----''--'   '--' `--'
 
-theme: jekyll-text-theme # Gem-based Jekyll Themes
+remote_theme: jekyll-text-theme # Gem-based Jekyll Themes
 
 
 
