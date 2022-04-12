@@ -10,7 +10,7 @@ toc: true
 
 # Shenduo Zhang
 
-I'm a math PhD student at Georgia Institute of Technology, enrolled in 2021 August. My research interests is mathematical statistics with an emphasize on high-dimensional problems.
+I'm a math PhD student at Georgia Institute of Technology, enrolled in 2021 August. My research interests are concentrated in mathematical statistics. It's my fortune to work with my advisor, Professor [Cheng Mao](https://people.math.gatech.edu/~cmao35/).
 
 我的中文名字是张申铎.
 
@@ -22,12 +22,11 @@ I'm a math PhD student at Georgia Institute of Technology, enrolled in 2021 Augu
 
 - Academic: szhang705@gatech.edu
 - Personal: Use drifting bottles on the east coast of US only since the earth is FLAT!
-- Office Hour: MathLab on Friday 2pm-3pm.
+- Office Hour: [Drop-in Tutoring](https://gtvault-my.sharepoint.com/:x:/g/personal/sreikes7_gatech_edu/EQZ5bROM1k9Bp_iVG6UVf7kBLJmxshLNCK7PnxYf_6wVUA?e=I8hDAI)
 
 ## Courses
 
 - [Teaching](/teaching.md)
-  TA for MATH 2550 (2021 Fall, 1 studio section)
 - [My undergraduate notes](/courses.md)
 
 ## Education experience
@@ -37,11 +36,11 @@ I'm a math PhD student at Georgia Institute of Technology, enrolled in 2021 Augu
 
 ## Publication
 
-Nothing yet.
+Still nothing yet. But you can check **[this](https://www.youtube.com/watch?v=dQw4w9WgXcQ)** amazing and yet easy to understand introduction of what my research is about!
 
 ## Push me
 
-I use a private repository to store all my homework tex files. But you can see my commit frequency in the following images. This is an indication of my current load and if I've been working.
+I use a private repository to store all my homework tex files. But you can see my commit frequency in the following images. This is an indication of my current homework load.
 
 <img src="http://ghchart.rshah.org/martyrzsd" alt="Shenduo's github history" />
 

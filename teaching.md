@@ -13,4 +13,5 @@ aside:
 
 # TA resources
 
-- 2021 Fall, Math 2550 L01 Multivariate Calculus, available on Canvas pages.
+- 2022 Spring, Math 2550 L01 L01 & G01 Multivariate Calculus, Lecturer: Plamen Iliev.
+- 2021 Fall, Math 2550 L01 Multivariate Calculus, Lecturer: Haomin Zhou.
