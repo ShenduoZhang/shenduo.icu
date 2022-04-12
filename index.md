@@ -36,7 +36,7 @@ I'm a math PhD student at Georgia Institute of Technology, enrolled in 2021 Augu
 
 ## Publication
 
-Still nothing yet. But you can check **[this](https://www.youtube.com/watch?v=dQw4w9WgXcQ)** amazing and yet easy to understand introduction of what my research is about!
+Still nothing yet. But you can check [this](https://www.youtube.com/watch?v=dQw4w9WgXcQ) amazing and yet easy to understand introduction of what my research is about!
 
 ## Push me
 
