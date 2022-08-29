@@ -22,7 +22,7 @@ I'm a math PhD student at Georgia Institute of Technology, enrolled in 2021 Augu
 
 - Academic: szhang705@gatech.edu
 - Personal: Use drifting bottles on the east coast of US only since the earth is FLAT!
-- Office Hour: [Drop-in Tutoring](https://gtvault-my.sharepoint.com/:x:/g/personal/sreikes7_gatech_edu/EQZ5bROM1k9Bp_iVG6UVf7kBLJmxshLNCK7PnxYf_6wVUA?e=I8hDAI)
+- Office Hour: [Drop-in Tutoring/MathLab](https://tutoring.gatech.edu/drop-in/)
 
 ## Courses
 
