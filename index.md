@@ -14,11 +14,11 @@ I'm a math PhD student at Georgia Institute of Technology, enrolled in 2021 Augu
 
 我的中文名字是张申铎.
 
-<img class="img-fluid.max-width: 60%" src="/me.jpg"/>
+<img src="/me.jpg"/>
 
 ## Contact
 
-- Academic: szhang705 aatt gatech ddoott edu
+- Academic: szhang705 aatt gatech ddoot edu
 - Personal: Use drifting bottles on the east coast of US only since the earth is FLAT!
 - Office Hour: [Drop-in Tutoring/MathLab](https://tutoring.gatech.edu/drop-in/)
 
