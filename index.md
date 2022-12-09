@@ -15,8 +15,6 @@ I'm a math PhD student at Georgia Institute of Technology, enrolled in 2021 Augu
 我的中文名字是张申铎.
 
 <img class="image image--lg" src="/me.jpeg"/>
-<img class="image image--lg" src="/me1.png"/>
-<img class="image image--lg" src="/me2.jpg"/>
 
 ## Contact
 
