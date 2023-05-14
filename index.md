@@ -47,9 +47,9 @@ I love pets and have adopted two lovely cats. I named them after mathematician, 
 
 - [Detection-Recovery Gap for Planted Dense Cycles](https://arxiv.org/abs/2302.06737);*Cheng Mao, Alexander S. Wein, Shenduo Zhang*; **COLT 2023**.
 
-But you can always check 👉 <strong><font size="6"><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">this</a></font></strong>👈 amazing and yet easy to understand introduction of what my research is about!
+You can always check 👉 <strong><font size="6"><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">this</a></font></strong>👈 amazing and yet easy to understand introduction of what I do. It's pretty accurate and representitive in that regard. 
 
-## Push me
+<!-- ## Push me
 
 I use a private repository to store all my homework tex files. But you can see my commit frequency in the following images. This is an indication of my current homework load.
 
@@ -71,7 +71,7 @@ Click on the following links to push me and my friend to work harder. (Try not t
       alert('We will be working harder!');
       return false;
    };
-</script>
+</script> -->
 
 ## Disclaimer
 
