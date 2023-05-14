@@ -10,7 +10,7 @@ toc: true
 
 # Shenduo Zhang
 
-I'm a Machine Learning PhD student at Georgia Institute of Technology, enrolled in 2021 August under School of Mathematics. My research interests are in statistics and machine learning theory, and I am currently working on developing theory for structure detection and extrapolation on graphs with latent geometrical structure."
+I'm a Machine Learning PhD student at Georgia Institute of Technology, enrolled in 2021 August under School of Mathematics. My research interests are in statistics and machine learning theory, and I am currently working on developing theory for structure detection and extrapolation on graphs with latent geometrical structure.
 
 I am grateful for the opportunity to work with my advisor, Professor [Cheng Mao](https://people.math.gatech.edu/~cmao35/). He has been a great mentor. 
 
@@ -20,16 +20,22 @@ I love pets and have adopted two lovely cats. I named them after mathematician, 
 
 <style>
 .responsive {
-  width: 80%;
+  width: 40%;
   height: auto;
 }
 </style>
-<img class="responsive" src="/me.jpg"/>
+<img class="responsive" src="/Gauss.jpg"/>
+<style>
+.responsive {
+  width: 40%;
+  height: auto;
+}
+</style>
+<img class="responsive" src="/Kolmo.jpg"/>
 
 ## Contact
 
-- Academic: szhang705 aatt gatech ddoot edu
-- Personal: Use drifting bottles on the east coast of US only since the earth is FLAT!
+- Email: szhang705 aatt gatech ddoot edu
 - Office Hour: [Drop-in Tutoring/MathLab](https://tutoring.gatech.edu/drop-in/)
 
 ## Education experience
