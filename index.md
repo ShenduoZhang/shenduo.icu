@@ -35,7 +35,7 @@ I'm a math PhD student at Georgia Institute of Technology, enrolled in 2021 Augu
 
 ## Publication
 
-- [Detection-Recovery Gap for Planted Dense Cycles](https://arxiv.org/abs/2302.06737);*Cheng Mao, Alexander S. Wein, Shenduo Zhang*; **Submitted**.
+- [Detection-Recovery Gap for Planted Dense Cycles](https://arxiv.org/abs/2302.06737);*Cheng Mao, Alexander S. Wein, Shenduo Zhang*; **COLT 2023**.
 
 But you can always check 👉 <strong><font size="6"><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">this</a></font></strong>👈 amazing and yet easy to understand introduction of what my research is about!
 
