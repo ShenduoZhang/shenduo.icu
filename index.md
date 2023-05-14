@@ -24,14 +24,14 @@ I love pets and have adopted two lovely cats. I named them after mathematician, 
   height: auto;
 }
 </style>
-<img class="responsive" src="/Gauss.jpg"/>
+<img class="responsive" src="/Gauss.png"/>
 <style>
 .responsive {
   width: 40%;
   height: auto;
 }
 </style>
-<img class="responsive" src="/Kolmo.jpg"/>
+<img class="responsive" src="/Kolmo.png"/>
 
 ## Contact
 
