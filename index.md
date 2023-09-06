@@ -10,9 +10,9 @@ toc: true
 
 # Shenduo Zhang
 
-I'm a Machine Learning PhD student at Georgia Institute of Technology, enrolled in 2021 August under School of Mathematics. My research interests are in statistics and machine learning theory, and I am currently working on developing theory for structure detection and extrapolation on graphs with latent geometrical structure.
+I'm a Machine Learning PhD student at Georgia Institute of Technology, enrolled in 2021 August under the School of Mathematics. My research interests are in statistics and machine learning theory, and I am currently working on structure detection and extrapolation on graphs with latent geometrical structure.
 
-I am grateful for the opportunity to work with my advisor, Professor [Cheng Mao](https://people.math.gatech.edu/~cmao35/). He has been a great mentor. 
+I am grateful for the opportunity to work with my advisor, Professor [Cheng Mao](https://people.math.gatech.edu/~cmao35/). 
 
 我的中文名字是张申铎. 
 
