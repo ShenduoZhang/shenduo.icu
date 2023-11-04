@@ -14,25 +14,6 @@ I'm a Machine Learning PhD student at Georgia Institute of Technology, enrolled 
 
 I am grateful for the opportunity to work with my advisor, Professor [Cheng Mao](https://people.math.gatech.edu/~cmao35/). 
 
-我的中文名字是张申铎. 
-
-I love pets and have adopted two lovely cats. I named them after mathematician, Gauss and Kolmo. 
-
-<style>
-.responsive {
-  width: 40%;
-  height: auto;
-}
-</style>
-<img class="responsive" src="/Gauss.png"/>
-<style>
-.responsive {
-  width: 40%;
-  height: auto;
-}
-</style>
-<img class="responsive" src="/Kolmo.png"/>
-
 ## Contact
 
 - Email: szhang705 aatt gatech ddoot edu
