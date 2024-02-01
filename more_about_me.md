@@ -15,7 +15,9 @@ I live with two lovely cats adopted from [Atlanta Humane Society](https://atlant
 
 ![Gauss](Gaus.jpeg "Gauss")
 
-![Gauss](Kol.jpeg "Gauss")
+![Kolmo](Kol.jpeg "Kolmo")
+
+![Gauss and Kolmo](GK.jpeg "Gauss and Kolmo")
 
 I tried to enjoy some sports to stay healthy and live longer. Mountain bike cycling was the one survived and I'm still improving my overall fitness level to be good at it. Although one lesson I learned was it's questionable that if mountain bike riding can really make one live longer not significantly shorter.
 
