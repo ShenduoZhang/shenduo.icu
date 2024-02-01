@@ -11,8 +11,6 @@ aside:
 #  nav: homework
 ---
 
-# More about me
-
 I live with two lovely cats adopted from [Atlanta Human Society](https://atlantahumane.org/), Gauss and Kolmo. 
 
 ![Gauss](Gaus.jpeg "Gauss")
