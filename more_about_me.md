@@ -4,7 +4,7 @@ titles:
   # @start locale config
   en      : &EN       Myself
   # @end locale config
-key: page-hw
+key: page-more_about_me
 aside:
   toc: true
 # sidebar: 
