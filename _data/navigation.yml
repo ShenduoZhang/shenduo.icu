@@ -17,6 +17,9 @@ header:
 
       # @end locale config
     url: /teaching.html
+  - titles:
+      en      : &EN       Myself
+    url: /more_about_me.html
 #  - titles:
       # @start locale config
 #      en      : &EN       Homework
