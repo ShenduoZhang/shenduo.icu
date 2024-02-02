@@ -26,8 +26,8 @@ I am grateful for the opportunity to work with my advisor, Professor [Cheng Mao]
 
 ## Publication
 
-- [Detection-Recovery Gap for Planted Dense Cycles](https://arxiv.org/abs/2302.06737);*Cheng Mao, Alexander S. Wein, Shenduo Zhang*; **COLT 2023**.
-
+- [Detection-Recovery Gap for Planted Dense Cycles](https://arxiv.org/abs/2302.06737); *Cheng Mao, Alexander S. Wein, Shenduo Zhang*; **COLT 2023**.
+- [Information-Theoretic Thresholds for Planted Dense Cycles](https://arxiv.org/pdf/2402.00305.pdf); *Cheng Mao, Alexander S. Wein, Shenduo Zhang*; **COLT 2023**.
 
 <!-- ## Push me
 
