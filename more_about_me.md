@@ -11,7 +11,8 @@ aside:
 #  nav: homework
 ---
 
-I live with two lovely cats adopted from [Atlanta Humane Society](https://atlantahumane.org/), Gauss and Kolmo. 
+Thanks for your interests in this wonderful, interesting and lovely human being. 
+He lives with two equally lovely cats adopted from [Atlanta Humane Society](https://atlantahumane.org/), Gauss and Kolmo.
 
 ![Gauss](Gaus.jpeg "Gauss")
 
@@ -19,6 +20,6 @@ I live with two lovely cats adopted from [Atlanta Humane Society](https://atlant
 
 ![Gauss and Kolmo](GK.jpeg "Gauss and Kolmo")
 
-I tried to enjoy some sports to stay healthy and live longer. Mountain bike cycling was the one survived and I'm still improving my overall fitness level to be good at it. Although one lesson I learned was it's questionable that if mountain bike riding can really make one live longer not significantly shorter.
+He tried to enjoy some sports to stay healthy and live longer. Mountain biking was the one survived definitely because it's fun not because he blew too much money on the bike and too lazy to sell it. He's still improving his overall fitness level and skills to be good at it. Though one lesson he has learned was it's questionable if mountain biking can actually make one live longer but not the other way around. 
 
-I play various kinds of games as well. Base-building games like [Factorio](https://www.factorio.com/) and [Oxygen Not Included](https://store.steampowered.com/app/457140/Oxygen_Not_Included/) are my favorite. I also enjoyed (not anymore) played some e-sport games, like [DotA](https://www.dota2.com/home). I played at a competitive level in DotA at around 7000MMR, which is roughly top 0.5% among the global active players. This journey contributed to my interest of developing a better game matching system. Games helped me to live through some of the hardest time of my life. But now, in the not so hard period of the life, I still play a lot because of addiction. 
+He plays various kinds of games as well. Base-building games like [Factorio](https://www.factorio.com/) and [Oxygen Not Included](https://store.steampowered.com/app/457140/Oxygen_Not_Included/) are probably his favorite and go-to games. He also enjoyed (not anymore) playing some e-sport games, like [DotA](https://www.dota2.com/home). He used to play at a competitive level in DotA at around 7000MMR, which is roughly top 0.5% among all global active players. This journey contributed to his desire of research in developing a better and more comprehensive game matching/ranking system, which still remains a desire today. Games helped him to live through some of the hardest time of the boy's life. But now, in the not so hard period, he still plays way too much than he should because of his addiction.
