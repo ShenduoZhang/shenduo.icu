@@ -37,7 +37,7 @@ timezone: Asia/Shanghai # see https://en.wikipedia.org/wiki/List_of_tz_database_
 author:
   type      : # "person" (default), "organization"
   name      : Shenduo Zhang
-  url       : martyrzsd.github.io
+  url       : https://shenduo.icu/
   avatar    : # path or url of avatar image (square)
   bio       : I'm currently an PhD student in Georgia Institute of Technology. I am interested in high-dimensional statistics, non-parametric statistics and machine learning.
   email     : # 
@@ -50,7 +50,7 @@ author:
   zhihu     : # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
   douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
   linkedin  : https://www.linkedin.com/in/shenduo-zhang-383756191/ # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
-  github    : https://github.com/martyrzsd # "user_name" the last part of your profile url, e.g. https://github.com/user_name
+  github    : https://github.com/ShenduoZhang # "user_name" the last part of your profile url, e.g. https://github.com/user_name
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
 
 
