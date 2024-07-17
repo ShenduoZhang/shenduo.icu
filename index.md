@@ -28,6 +28,7 @@ I am grateful for the opportunity to work with my advisor, Professor [Cheng Mao]
 
 - [Detection-Recovery Gap for Planted Dense Cycles](https://arxiv.org/abs/2302.06737); *Cheng Mao, Alexander S. Wein, Shenduo Zhang*; **COLT 2023**.
 - [Information-Theoretic Thresholds for Planted Dense Cycles](https://arxiv.org/pdf/2402.00305.pdf); *Cheng Mao, Alexander S. Wein, Shenduo Zhang*; **Submitted**.
+- [Impossibility of latent inner product recovery via rate distortion](https://arxiv.org/abs/2407.11932); *Cheng Mao, Shenduo Zhang*.
 
 <!-- ## Push me
 
