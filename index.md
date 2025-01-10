@@ -10,7 +10,7 @@ toc: true
 
 # Welcome to my homepage
 
-I'm a Machine Learning PhD student at Georgia Institute of Technology, enrolled in 2021 August under the School of Mathematics. My research interests are in statistics, machine learning theory and application. I am currently actively working on structure inference on random graphs with latent geometrical structures.
+I'm a Machine Learning PhD student at Georgia Institute of Technology, enrolled in 2021 August under the School of Mathematics. My research interests are in statistics, machine learning theory and mathematics of data science. I am currently actively working on structure inference on random graphs with latent geometrical structures.
 
 I am grateful for the opportunity to work with my advisor, Professor [Cheng Mao](https://people.math.gatech.edu/~cmao35/).
 
@@ -22,13 +22,14 @@ I am grateful for the opportunity to work with my advisor, Professor [Cheng Mao]
 ## Education
 
 - **Ph.D student in Machine Learning**, Georgia Institute of Technology, *2021-now*.
+- **Master in Mathematics** along the way, Georgia Institute of Technology. *2021-2024*
 - **B.S. in Statistics**, Xi'an Jiaotong University, *2017-2021*.
 
 ## Publication
 
 - [Detection-Recovery Gap for Planted Dense Cycles](https://arxiv.org/abs/2302.06737); *Cheng Mao, Alexander S. Wein, Shenduo Zhang*; **COLT 2023**.
-- [Information-Theoretic Thresholds for Planted Dense Cycles](https://arxiv.org/pdf/2402.00305.pdf); *Cheng Mao, Alexander S. Wein, Shenduo Zhang*; **Submitted**.
-- [Impossibility of latent inner product recovery via rate distortion](https://arxiv.org/abs/2407.11932); *Cheng Mao, Shenduo Zhang*.
+- [Information-Theoretic Thresholds for Planted Dense Cycles](https://arxiv.org/pdf/2402.00305.pdf); *Cheng Mao, Alexander S. Wein, Shenduo Zhang*; **IEEE Trans on Information Theory**.
+- [Impossibility of latent inner product recovery via rate distortion](https://arxiv.org/abs/2407.11932); *Cheng Mao, Shenduo Zhang*; **Allerton 2024**.
 
 <!-- ## Push me
 
