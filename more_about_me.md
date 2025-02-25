@@ -12,7 +12,7 @@ aside:
 ---
 
 Thanks for your interests in this wonderful, interesting and lovely human being. 
-He lives with two equally lovely cats adopted from [Atlanta Humane Society](https://atlantahumane.org/), Gauss and Kolmo.
+He lives with two equally lovely cats adopted from [Atlanta Humane Society](https://atlantahumane.org/), Gauss and Kolmo. Their photos are posted on my Instagram, search my name and request to follow if you want to see more. 
 
 ![Gauss](Gaus.jpeg "Gauss")
 
@@ -20,6 +20,6 @@ He lives with two equally lovely cats adopted from [Atlanta Humane Society](http
 
 ![Gauss and Kolmo](GK.jpeg "Gauss and Kolmo")
 
-He tried to enjoy some sports to stay healthy and live longer. Mountain biking was somehow the one survived his laziness. He's still improving his overall fitness level and skills to be good at it. Though one lesson he has learned was it's questionable to say at least if mountain biking can actually make one live longer but not the other way around.
+Outside work and research, he now enjoys road cycling, mountain biking and running. 
 
-He plays various kinds of games as well. Base-building games like [Factorio](https://www.factorio.com/) and [Oxygen Not Included](https://store.steampowered.com/app/457140/Oxygen_Not_Included/) are probably his favorite and go-to games. He also enjoyed (not anymore) playing some e-sport games, like [DotA](https://www.dota2.com/home). He used to play at a competitive level in DotA at around 7000 rank score, which is roughly ranked 1000th in North and South America combined and top 5000 in the world. This journey contributed to his desire of research in developing a better and more comprehensive game matching/ranking system, which still remains a desire today. Games helped him to live through some of the hardest time of the boy's life. But now, in the not so hard period, he still plays way too much than he should because of his addiction. But as he got older, he started to enjoy watching Netflix more, which is less time-consuming, less stressful and less toxic!
+He enjoyed various kinds of games as well, mostly FPS, base-building games, rogue-like, soul-like, farming simulator and driving simulator. He also enjoyed playing e-sport titles, like [DotA2](https://www.dota2.com/home) and [Valorant](https://playvalorant.com/en-us/). He started to play DotA in middle school at the age of 15. It was the best place for him to escape to from a very stressful and volatile period of the boy's life. He was consistently within the top 1000 rank leaderboard North and South America combined and probably top 5000 in the world (there's no worldwide leaderboard). This journey contributed to his desire of research in developing a better and more comprehensive game matching/ranking system. He completely quit DotA in 2023 after a 20 loss strike in rank games and countless encounter of toxic behavior. He had enough of it. He switched his attention to Valorant and endurance sports. At the time of writing, he's ranked ascendant in Valorant and a very average weekend warrior cyclist and runner.  
