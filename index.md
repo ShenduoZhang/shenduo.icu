@@ -10,7 +10,7 @@ toc: true
 
 # Welcome to my homepage
 
-I'm a Machine Learning PhD student at Georgia Institute of Technology, enrolled in 2021 August under the School of Mathematics. My research interests are in statistics, machine learning theory and mathematics of data science. I am currently actively working on structure inference on random graphs with latent geometrical structures.
+I'm a Machine Learning PhD student at Georgia Institute of Technology, enrolled in 2021 August under the School of Mathematics. My research interests are in statistics, machine learning theory and mathematics of data science. I am currently actively working on structure inference on random graphs with latent geometrical structures and the trade-off between computational resources and statistical performance.
 
 I am grateful for the opportunity to work with my advisor, Professor [Cheng Mao](https://people.math.gatech.edu/~cmao35/).
 
@@ -18,6 +18,12 @@ I am grateful for the opportunity to work with my advisor, Professor [Cheng Mao]
 
 - Email: szhang705 aatt gatech ddoot edu
 - Office Hour: [Drop-in Tutoring/MathLab](https://tutoring.gatech.edu/drop-in/)
+
+## Employments (Yeah, not umemployed anymore)
+
+- **Applied Scientist Intern**, Amazon, *Incoming 2025 Summer*
+- **Teaching Assistant**, Georgia Institute of Technology, *2021-now*
+- **Research Assistant**, Georgia Institute of Technology, *Summer 2022-2024*
 
 ## Education
 
