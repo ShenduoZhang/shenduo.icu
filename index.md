@@ -19,7 +19,7 @@ I am grateful for the opportunity to work with my advisor, Professor [Cheng Mao]
 - Email: szhang705 aatt gatech ddoot edu
 - Office Hour: [Drop-in Tutoring/MathLab](https://tutoring.gatech.edu/drop-in/)
 
-## Employments (Yeah, not umemployed anymore)
+## Employments (Yeah, not unemployed anymore)
 
 - **Applied Scientist Intern**, Amazon, *Incoming 2025 Summer*
 - **Teaching Assistant**, Georgia Institute of Technology, *2021-now*
